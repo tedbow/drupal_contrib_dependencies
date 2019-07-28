@@ -1,0 +1,4 @@
+name: Lazyload Images
+type: module
+description: 'Lazyload images using an IntersectionObserver'
+core: 8.x

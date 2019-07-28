@@ -1,0 +1,9 @@
+name: Server Disk Space Notification
+type: module
+description: 'This module is used for sending notification mail for server disk space and memory size.'
+package: Server Disk Space Notification
+core: 8.x
+dependencies:
+  -smtp
+
+

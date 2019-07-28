@@ -1,0 +1,10 @@
+name: Capture Entity Changes
+type: module
+
+description: 'Capture all entity changes for a node.'
+package: ONF System
+core: 8.x
+
+configure: capture_entity_changes.settings
+requirements:
+  _permission: 'capture entity changes config'

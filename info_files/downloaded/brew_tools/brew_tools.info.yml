@@ -1,0 +1,7 @@
+name: 'Brew Tools'
+type: module
+description: 'This module consists of blocks that hold home brew calculators'
+package: Block Tools
+core: 8.x
+version: 0.1
+configure: brewtools.settings

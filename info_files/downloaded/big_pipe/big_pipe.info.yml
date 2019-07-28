@@ -1,0 +1,8 @@
+name: BigPipe
+type: module
+description: 'Sends pages using the BigPipe technique that allows browsers to show them much faster.'
+package: 'Performance and scalability'
+version: VERSION
+core: 8.x
+dependencies:
+  - drupal:system (<8.1.x)

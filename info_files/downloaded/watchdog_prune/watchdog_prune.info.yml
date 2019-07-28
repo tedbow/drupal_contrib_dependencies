@@ -1,0 +1,5 @@
+name: Watchdog Prune
+description: Remove entries from the watchdog table based on age or other factors.
+core: 8.x
+type: module
+configure: watchdog_prune.watchdog_prune_settings

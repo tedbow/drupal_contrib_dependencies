@@ -1,0 +1,8 @@
+name: Slider Pro
+description: Integrate the Slider Pro library with Drupal.
+package: Other
+type: module
+core: 8.x
+
+dependencies:
+  - views

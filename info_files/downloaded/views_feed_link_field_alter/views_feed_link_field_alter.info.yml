@@ -1,0 +1,6 @@
+name: Views Feed Link Field Alter
+description: 'This module extends the views feed link field options.'
+package: Views
+
+type: module
+core: 8.x

@@ -1,0 +1,6 @@
+type: module
+name: Social Link Field
+description: Provide field type with social links.
+configure: social_link_field.settings
+core: 8.x
+package: Field types

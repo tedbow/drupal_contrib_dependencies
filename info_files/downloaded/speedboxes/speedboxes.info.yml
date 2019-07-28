@@ -1,0 +1,5 @@
+name: Speedboxes
+type: module
+description: Allows for the checking and unchecking of multiple checkboxes with a drag and drop interface.
+core: 8.x
+package: Tools

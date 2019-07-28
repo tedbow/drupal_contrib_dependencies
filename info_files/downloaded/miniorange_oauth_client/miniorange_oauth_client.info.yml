@@ -1,0 +1,23 @@
+name: 'miniOrange OAuth Client'
+description: 'miniOrange OAuth Client.'
+# core: 8.x
+configure: miniorange_oauth_client.config_clc
+type: module
+
+# Information added by Drupal.org packaging script on 2019-05-02
+# version: '8.x-1.0'
+# core: '8.x'
+# project: 'miniorange_oauth_client'
+# datestamp: 1556805495
+
+# Information added by Drupal.org packaging script on 2019-06-12
+# version: '8.x-2.1'
+# core: '8.x'
+# project: 'miniorange_oauth_client'
+# datestamp: 1560323590
+
+# Information added by Drupal.org packaging script on 2019-06-25
+version: '8.x-2.2'
+core: '8.x'
+project: 'miniorange_oauth_client'
+datestamp: 1561436889

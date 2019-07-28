@@ -1,0 +1,10 @@
+name: 'Evanced Events Importer'
+description: 'Imports an EXML feed from Evanced Events software and uses it to create and update event nodes in Drupal.'
+dependencies:
+  - datetime:datetime
+package: Import
+configure: evanced_events_importer.main_configuration_form
+core: 8.x
+php: '5.2'
+project: evanced_events_importer
+type: module

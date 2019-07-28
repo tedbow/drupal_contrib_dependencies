@@ -1,0 +1,9 @@
+name: Views HTTP Pager
+description: Add HTTP Link headers to provide pager URLs.
+type: module
+package: Web services
+version: VERSION
+core: 8.x
+dependencies:
+  - views
+  - rest

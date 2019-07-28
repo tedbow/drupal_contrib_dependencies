@@ -1,0 +1,5 @@
+name: JS confirmation Pop Up
+description: Protect the user against navigating away from a form before saving their changes.
+core: 8.x
+configure: js_confirm_pop_up.admin_settings
+type: module

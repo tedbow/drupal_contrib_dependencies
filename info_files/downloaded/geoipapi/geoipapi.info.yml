@@ -1,0 +1,5 @@
+name: GeoIpApi
+type: module
+description: 'Integration with the GeoIpV2 API'
+package: 'Analytics'
+core: '8.x'

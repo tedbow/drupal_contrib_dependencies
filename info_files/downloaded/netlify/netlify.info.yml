@@ -1,0 +1,5 @@
+name: Netlify
+type: module
+description: 'Trigger Netlify build hook when a node is published.'
+core: 8.x
+package: 'Custom'

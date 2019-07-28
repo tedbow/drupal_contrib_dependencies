@@ -1,0 +1,8 @@
+name: Link title formatter
+type: module
+description: Formats a link title field as text without the link.
+core: 8.x
+package: 'Field Formatters'
+
+dependencies:
+  - drupal:link

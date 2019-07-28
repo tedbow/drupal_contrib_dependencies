@@ -1,0 +1,8 @@
+name: 'CodeMirror Field'
+type: module
+description: 'Integrates CodeMirror as a customizable field.'
+version: VERSION
+package: Field types
+core: 8.x
+dependencies:
+  - drupal:field

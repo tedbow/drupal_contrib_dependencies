@@ -1,0 +1,6 @@
+name: Message Time Interval
+description: 'Add options to hide message time.'
+core: 8.x
+type: module
+
+configure: message_time_interval.settings_form

@@ -1,0 +1,6 @@
+name: 'Koban'
+type: module
+description: 'Add Koban Tracking'
+package: Koban
+configure: koban.admin_settings_form
+core: '8.x'

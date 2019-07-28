@@ -1,0 +1,9 @@
+name: Syntax Highlighter
+type: module
+description: 'Highlight source code using the SyntaxHighlighter Javascript library.'
+package: Input filters
+core: 8.x
+configure: syntaxhighlighter.settings.form
+
+dependencies:
+  - libraries

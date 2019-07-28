@@ -1,0 +1,7 @@
+name: Commerce Url Hash
+type: module
+description: Module will encrypt the order ID in checkout Urls.
+core: 8.x
+dependencies:
+  - commerce
+package: Commerce

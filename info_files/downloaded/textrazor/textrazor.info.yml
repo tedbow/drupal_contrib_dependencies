@@ -1,0 +1,11 @@
+name: Textrazor
+type: module
+description: Provides integration with Textrazor NLP service.
+package: Natural Language Processing Tools
+core: 8.x
+dependencies:
+    - drupal:serialization
+    - drupal:user
+    - drupal:rest
+    - drupal:taxonomy
+    - selectize:selectize

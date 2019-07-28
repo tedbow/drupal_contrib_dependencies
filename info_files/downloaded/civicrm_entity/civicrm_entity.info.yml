@@ -1,0 +1,9 @@
+name: CiviCRM Entity
+type: module
+description: 'Expose CiviCRM entities as Drupal entities.'
+package: CiviCRM
+core: 8.x
+dependencies:
+  - civicrm:civicrm
+  - drupal:datetime
+  - drupal:options

@@ -1,0 +1,4 @@
+name: Highlight Changes
+type: module
+description: 'Highlighting of active changes on Entity Forms.'
+core: 8.x

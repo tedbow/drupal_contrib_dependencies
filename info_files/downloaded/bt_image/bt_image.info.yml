@@ -1,0 +1,8 @@
+name: Btester Image
+type: module
+description: Btester Image
+core: 8.x
+package: Btester
+dependencies:
+  - bt_media:bt_media
+  - focal_point:focal_point

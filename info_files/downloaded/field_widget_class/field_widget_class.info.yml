@@ -1,0 +1,7 @@
+name: Field widget class
+type: module
+description: 'Provides custom CSS class settings for field widgets.'
+package: Field widgets
+core: 8.x
+dependencies:
+  - field

@@ -1,0 +1,8 @@
+name: Message Time
+description: 'Add options message time delay.'
+core: 8.x
+type: module
+version: '8.1.1'
+project: message_time
+
+configure: message_time.settings_form

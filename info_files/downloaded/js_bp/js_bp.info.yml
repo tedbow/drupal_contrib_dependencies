@@ -1,0 +1,4 @@
+name: 'Javascript breakpoints'
+type: module
+description: 'Makes Drupal breakpoints available in your JavaScripts'
+core: 8.x

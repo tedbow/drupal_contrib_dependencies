@@ -1,0 +1,11 @@
+name: 'Media PDF Thumbnail'
+type: module
+description: 'Generate a thumbnail image from a pdf file in media entity'
+package: 'Media'
+version: '8.x-1.x'
+core: '8.x'
+
+configure: media_pdf_thumbnail.settings_form
+
+dependencies:
+  - drupal:media

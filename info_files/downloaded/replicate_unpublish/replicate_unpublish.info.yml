@@ -1,0 +1,8 @@
+name: 'Replicate Unpublished'
+type: module
+description: 'Unpublished node after Replication by Replicate Module'
+core: 8.x
+package: 'Entity'
+dependencies:
+  - replicate
+  - replicate_ui

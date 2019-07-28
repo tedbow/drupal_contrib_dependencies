@@ -1,0 +1,8 @@
+name: Group Purl
+type: module
+description: Purl provider for Group
+core: 8.x
+package: Group
+dependencies:
+  - drupal:group
+  - purl:purl

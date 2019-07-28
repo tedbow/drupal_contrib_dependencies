@@ -1,0 +1,23 @@
+name: ERCore (All Modules)
+description: 'ERCore Base module, others install/uninstall automatically.'
+type: module
+dependencies:
+  - components:components
+  - entity_reference_exposed_filters:entity_reference_exposed_filters
+  - ercore:ercore_component
+  - ercore:ercore_program
+  - ercore:ercore_institution
+  - ercore:ercore_core
+  - ercore:ercore_admin
+  - ercore:ercore_collaboration
+  - ercore:ercore_event
+  - ercore:ercore_j_highlight
+  - ercore:ercore_j_honor
+  - ercore:ercore_other_product
+  - ercore:ercore_patent
+  - ercore:ercore_publication
+  - ercore:ercore_presentation
+  - ercore:ercore_proposal
+  - libraries:libraries
+package: ERCore
+core: 8.x

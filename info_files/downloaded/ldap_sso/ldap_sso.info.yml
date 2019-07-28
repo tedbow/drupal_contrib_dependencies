@@ -1,0 +1,12 @@
+name: 'LDAP SSO'
+description: 'Implements single sign-on (SSO) LDAP authentication'
+package: 'Lightweight Directory Access Protocol'
+
+type: module
+core: 8.x
+
+dependencies:
+  - ldap:ldap_servers
+  - ldap:ldap_authentication
+
+configure: ldap_sso.admin_form

@@ -1,0 +1,24 @@
+name: 'Dropsolid Rocketship Profile'
+description: 'The Dropsolid Rocketship installation profile.'
+type: profile
+core: 8.x
+dependencies:
+  - chosen:chosen
+  - rocketship_core:rocketship_core
+  - dropsolid_rocketship_profile:dropsolid_rocketship_drush
+  - environment_indicator:environment_indicator
+  - drupal:system
+  - drupal:action
+  - drupal:user
+  - drupal:node
+  - drupal:block
+  - recaptcha:recaptcha
+  - r4032login:r4032login
+  - drupal:embed
+  - drupal:entity_embed
+themes:
+  - bartik
+  - seven
+package: Rocketship
+distribution:
+  name: 'Dropsolid Rocketship Profile'

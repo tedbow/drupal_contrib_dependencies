@@ -1,0 +1,5 @@
+name: 'Pass Reset Checkbox'
+description: 'Transforms the pass reset page to a checkbox on the login form.'
+type: module
+core: 8.x
+package: User Management

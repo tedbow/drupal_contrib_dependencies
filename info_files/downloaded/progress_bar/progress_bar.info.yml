@@ -1,0 +1,5 @@
+name: Progress Bar
+type: module
+description: Modules provide Progress bar field formatter for List field and State field of commerce.
+core: 8.x
+package: Field types

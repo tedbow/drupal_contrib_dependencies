@@ -1,0 +1,6 @@
+name: Contact Default Field Override
+type: module
+core: 8.x
+dependencies:
+  - drupal:contact
+  - drupal:field_ui

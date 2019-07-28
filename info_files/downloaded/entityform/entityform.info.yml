@@ -1,0 +1,7 @@
+name: Entityform
+type: module
+description: 'Allows users to create user fieldable forms.'
+version: VERSION
+package: Entityform
+core: 8.x
+configure: entityform.overview_types

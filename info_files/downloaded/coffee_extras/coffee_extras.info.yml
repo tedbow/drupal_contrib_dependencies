@@ -1,0 +1,6 @@
+name: 'Coffee Extras'
+type: module
+description: 'Adds a bunch of useful commands for the Coffee module'
+core: 8.x
+dependencies:
+  - coffee

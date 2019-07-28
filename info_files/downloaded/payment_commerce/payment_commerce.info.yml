@@ -1,0 +1,10 @@
+name: Payment for Drupal Commerce
+description: Allows Drupal Commerce orders to be paid using Payment.
+package: Commerce (contrib)
+
+type: module
+core: 8.x
+
+dependencies:
+  - commerce:commerce_payment
+  - payment:payment

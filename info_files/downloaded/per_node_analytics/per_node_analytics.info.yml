@@ -1,0 +1,10 @@
+name: 'Per Node Google Analytics'
+type: module
+description: ''
+core: 8.x
+package: 'Custom'
+dependencies:
+  - charts
+  - charts_highcharts
+  - google_analytics_reports
+  - hidden_tab

@@ -1,0 +1,8 @@
+name: Hash Tag Make
+description: 'Turns strings starting with "#" into clickable items. '
+type: module
+core: 8.x
+package: 'Tinsel Suite'
+dependencies:
+  - drupal:node
+  - drupal:search

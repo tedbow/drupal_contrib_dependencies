@@ -1,0 +1,8 @@
+name: BitPay
+description: 'Provides integration with BitPay cryptocurrency payment service.'
+core: 8.x
+stylesheets:
+  all:
+    - bitpay.css
+type: module
+configure: bitpay.settings

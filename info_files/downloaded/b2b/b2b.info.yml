@@ -1,0 +1,6 @@
+name: B2B
+description: Integration with B2B OroCommerce.
+type: module
+package: b2b
+core: 8.x
+configure: b2b.settings

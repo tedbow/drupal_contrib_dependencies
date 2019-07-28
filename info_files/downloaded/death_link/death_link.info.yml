@@ -1,0 +1,7 @@
+name: Death Links
+type: module
+description: Provide functionality to redirect death links to the canonical url of any entity
+core: 8.x
+package: Site Management
+dependencies:
+  - linkit:linkit

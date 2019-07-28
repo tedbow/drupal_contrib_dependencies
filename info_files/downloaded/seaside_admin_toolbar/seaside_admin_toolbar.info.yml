@@ -1,0 +1,7 @@
+name: Seaside - Administration toolbar
+type: module
+description: Seaside admin in the toolbar
+package: Administration
+dependencies:
+  - admin_toolbar
+  - admin_toolbar_tools

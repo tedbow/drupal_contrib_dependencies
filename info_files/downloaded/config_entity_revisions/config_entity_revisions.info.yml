@@ -1,0 +1,9 @@
+name: Config Entity Revisions
+description: Allows configuration entities in Drupal 8.5+ to have revisions.
+package: Config Entity Revisions
+type: module
+core: 8.x
+dependencies:
+  - drupal:content_moderation
+  - diff:diff
+  - drupal:serialization

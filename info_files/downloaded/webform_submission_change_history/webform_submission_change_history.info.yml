@@ -1,0 +1,8 @@
+name: Webform Submission Notes
+type: module
+description: 'Allows administrators to take notes on webform submissions and see a note history.'
+core: '8.x'
+dependencies:
+  - webform:webform
+  - webform:webform_submission_log
+php: 7

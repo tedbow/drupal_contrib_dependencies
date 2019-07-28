@@ -1,0 +1,5 @@
+name: Content Snippets
+type: module
+description: Provides Content Snippet configuration.
+core: 8.x
+package: Content Snippets

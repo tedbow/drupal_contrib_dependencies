@@ -1,0 +1,4 @@
+name: Node Title Help Text
+description: Allows you to add help text to node title.
+type: module
+core: 8.x

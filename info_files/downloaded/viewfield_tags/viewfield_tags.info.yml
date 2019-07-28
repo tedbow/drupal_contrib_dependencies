@@ -1,0 +1,8 @@
+name: Viewfield Tags
+type: module
+description: This Module extends the Viewfield Module by adding a view field filter based on View Tags.
+core: 8.x
+package: Field types
+dependencies:
+  - viewfield
+  - views_ui

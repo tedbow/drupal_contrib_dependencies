@@ -1,0 +1,8 @@
+name: Domain GTM
+type: module
+description: Managing GTM codes for domains.
+package: Domain
+# core: 8.x
+dependencies:
+  - google_tag:google_tag
+  - domain:domain

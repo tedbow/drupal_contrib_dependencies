@@ -1,0 +1,10 @@
+name: Syncart
+type: module
+description: Custom syncart
+core: 8.x
+package: SynapseF
+dependencies:
+  - commerce:commerce_cart
+  - commerce:commerce_checkout
+  - commerce:commerce_order
+version: 8.x-1.0

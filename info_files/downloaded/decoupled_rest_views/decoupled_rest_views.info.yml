@@ -1,0 +1,8 @@
+name: Decoupled Rest Views
+core: 8.x
+type: module
+description: It provides decoupled view serializer which capture all the entity refrence data into json Response.
+dependencies:
+  - rest:rest
+  - drupal:views
+version: 8.x-1.x

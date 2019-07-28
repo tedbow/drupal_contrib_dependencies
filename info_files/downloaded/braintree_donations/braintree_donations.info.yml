@@ -1,0 +1,7 @@
+name: 'Braintree Donations'
+description: 'Integration with Braintree payments enabling simple donation flow'
+core: 8.x
+type: module
+dependencies:
+  - key
+

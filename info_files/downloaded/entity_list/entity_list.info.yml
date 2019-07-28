@@ -1,0 +1,7 @@
+name: 'Entity list'
+type: module
+description: 'This module provides an entity type to display entities as a list with plugins to manage each step of creating the list.'
+core: 8.x
+package: 'Content'
+dependencies:
+  - drupal:layout_discovery

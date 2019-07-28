@@ -1,0 +1,6 @@
+name: Taxonomy reference shield
+type: module
+description: 'Protects referenced terms from being deleted'
+package: Field types
+core: 8.x
+configure: taxonomy_reference_shield.routing.configuration

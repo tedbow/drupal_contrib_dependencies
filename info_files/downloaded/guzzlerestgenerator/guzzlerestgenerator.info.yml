@@ -1,0 +1,7 @@
+name: Guzzle REST Generator
+description: UI Interface to perform external REST requests and generate Drupal REST endpoint to get real-time JSON output.
+package: Guzzle REST API
+type: module
+version: 1.0
+core: 8
+

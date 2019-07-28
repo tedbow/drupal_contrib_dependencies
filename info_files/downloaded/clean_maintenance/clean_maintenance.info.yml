@@ -1,0 +1,4 @@
+type: module
+name: Clean Maintenance
+description: 'Custom maintenance page.'
+core: '8.x'

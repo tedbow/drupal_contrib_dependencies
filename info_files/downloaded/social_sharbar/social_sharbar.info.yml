@@ -1,0 +1,8 @@
+name: 'Social Sharbar'
+description: 'Social sharebar module.'
+type: module
+package: Sharebar
+core: 8.x
+dependencies:
+  - drupal:filter
+  - token:token

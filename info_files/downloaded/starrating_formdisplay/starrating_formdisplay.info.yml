@@ -1,0 +1,7 @@
+name: Starrating form display
+description: Transform select tag of starrating to clickable icon by MegaDrupal
+type: module
+package: Other
+
+dependencies:
+  - starrating:starrating

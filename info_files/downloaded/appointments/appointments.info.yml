@@ -1,0 +1,12 @@
+name: 'Appointments'
+type: module
+description: 'Provides an interface for appointments to nodes.'
+core: 8.x
+package: 'Appointments'
+
+dependencies:
+  - drupal:workflows
+  - drupal:content_moderation
+  - drupal:inline_entity_form
+  - drupal:views
+  - drupal:token

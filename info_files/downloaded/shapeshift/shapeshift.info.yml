@@ -1,0 +1,8 @@
+name: ShapeShift
+type: module
+description: Integrates Coin Tools with ShapeShift.
+package: Coin Tools
+core: 8.x
+php: '5.5'
+dependencies:
+  - cointools

@@ -1,0 +1,5 @@
+name: iCodes Importer and processor
+description: Creates and manages the Icodes Importer and processor.
+package: Custom
+type: module
+core: 8.x

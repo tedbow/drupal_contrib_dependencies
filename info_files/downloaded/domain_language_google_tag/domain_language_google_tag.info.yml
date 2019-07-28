@@ -1,0 +1,10 @@
+name: Multidomain and Multilanguage Google Tag Manager
+description: Domain and language based add/edit Google Tag Manager codes.
+type: module
+package: Domain
+# core: '8.x'
+dependencies:
+  - domain:domain
+  - domain:domain_language
+configure: domain_language_google_tag.google_tag_settings_form
+core: '8.x'

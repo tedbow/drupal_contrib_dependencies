@@ -1,0 +1,4 @@
+name: Request Cleanup
+description: "Clean up request"
+type: module
+core: 8.x

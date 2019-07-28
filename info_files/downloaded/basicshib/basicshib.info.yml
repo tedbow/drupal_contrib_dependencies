@@ -1,0 +1,6 @@
+name: Basic shibboleth authentication
+type: module
+description: Shibboleth authentication
+core: 8.x
+version: 8.x-1.0-alpha1
+package: Authentication

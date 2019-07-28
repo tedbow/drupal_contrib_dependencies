@@ -1,0 +1,7 @@
+name: Fine Image Upload
+core: 8.x
+type: module
+description: 'Defines an image widget.'
+package: Media
+dependencies:
+  - drupal:image

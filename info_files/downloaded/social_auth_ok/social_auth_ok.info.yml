@@ -1,0 +1,8 @@
+name: 'Social Auth Odnoklassniki'
+type: module
+description: 'Social Auth integration for Ok.ru'
+core: 8.x
+package: 'Social'
+
+dependencies:
+  - social_auth:social_auth (>= 8.x-2.x)

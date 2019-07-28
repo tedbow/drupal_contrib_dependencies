@@ -1,0 +1,6 @@
+name: Activity Emails
+core: 8.x
+description: Send emails about site activity to an email address.
+package: Notifications
+type: module
+configure: activity_emails.activity_emails_form

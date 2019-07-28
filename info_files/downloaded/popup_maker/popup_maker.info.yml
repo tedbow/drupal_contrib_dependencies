@@ -1,0 +1,5 @@
+name: Popup Maker Module
+description: Drupal Module for Popup Maker Service
+package: Custom
+type: module
+core: 8.x

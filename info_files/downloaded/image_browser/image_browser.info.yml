@@ -1,0 +1,9 @@
+name: DrupalExp Image Browser
+type: module
+description: Provide Image Browser service like Media in Drupal 7.x
+core: 8.x
+package: Media
+version: 8.x-1.0
+dependencies:
+  - views
+  - entity_browser

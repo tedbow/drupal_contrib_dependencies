@@ -1,0 +1,9 @@
+name: Date Timepicker
+description: Provides additional settings for the DateTime Core widget to use jQuery timepicker plugins.
+package: Date
+
+type: module
+core: 8.x
+
+dependencies:
+  - drupal:datetime

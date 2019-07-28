@@ -1,0 +1,5 @@
+name: Breakpoint Generator
+type: module
+description: Automatic breakpoint generator
+core: 8.x
+package: Development

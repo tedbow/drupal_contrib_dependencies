@@ -1,0 +1,7 @@
+name: SzuBe API
+description: 'SzuBe API. Tool kit for SzuBe API V1'
+type: module
+core: 8.x
+package: SzuBe
+
+configure: szube_api.settings

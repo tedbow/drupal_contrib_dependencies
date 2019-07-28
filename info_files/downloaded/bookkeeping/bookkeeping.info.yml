@@ -1,0 +1,10 @@
+name: 'Bookkeeping'
+type: module
+description: 'Double entry bookkeeping system for Drupal.'
+core: 8.x
+package: 'Bookkeeping'
+dependencies:
+  - commerce:commerce_price
+  - drupal:views
+  - dynamic_entity_reference:dynamic_entity_reference
+  - views_data_export:views_data_export

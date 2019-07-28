@@ -1,0 +1,5 @@
+name: mongodb_indexer
+type: module
+description: MongoDB Indexer for D8
+core: 8.x
+

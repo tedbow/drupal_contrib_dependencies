@@ -1,0 +1,12 @@
+name: MicroSPiD PASW
+type: module
+description: Handles authentication with spid protocol
+core: 8.x
+configure: microspid.admin_settings
+dependencies:
+ - drupal:user
+ - externalauth:externalauth
+
+interface translation project: microspid    
+interface translation server pattern: modules/microspid/translations/it.po
+

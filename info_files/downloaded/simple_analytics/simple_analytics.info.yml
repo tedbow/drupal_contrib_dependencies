@@ -1,0 +1,7 @@
+name: Simple Analytics
+description: 'Easy way to integrate site analytics code and / or use an internal tracking system.'
+type: module
+core: 8.x
+# version: 8.x-2.2.x-dev
+
+configure: simple_analytics.settings

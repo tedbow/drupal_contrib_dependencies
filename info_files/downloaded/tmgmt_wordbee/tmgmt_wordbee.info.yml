@@ -1,0 +1,13 @@
+name: Wordbee Beebox Translator
+description: Wordbee Beebox TMGMT plugin
+package: Translation Management
+
+type: module
+core: 8.x
+
+dependencies:
+    - tmgmt
+    - tmgmt:tmgmt_content
+    - tmgmt:tmgmt_file
+
+configure: entity.tmgmt_translator.collection

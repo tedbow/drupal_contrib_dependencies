@@ -1,0 +1,6 @@
+name: Menu Child Item
+type: module
+description: 'Add menu child item with single click, edit, then save.'
+core: 8.x
+dependencies:
+  - drupal:menu_ui

@@ -1,0 +1,12 @@
+name: 'Phone Verify'
+type: module
+description: 'My Awesome Module'
+core: 8.x
+package: Other
+dependencies:
+  - druapl:basic_auth
+  - druapl:rest
+  - druapl:serialization
+  - simple_oauth:simple_oauth
+  - sms:sms
+  - druapl:user

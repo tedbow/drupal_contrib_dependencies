@@ -1,0 +1,7 @@
+name: Admin User Language
+type: module
+description: Forces a preferred administration pages language on user creation/update
+core: 8.x
+package: Translation
+dependencies:
+  - user

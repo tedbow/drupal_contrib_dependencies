@@ -1,0 +1,5 @@
+name: 'Basic NCBI-API Interface'
+type: module
+description: 'A Basic NCBI-API interface for search and getting articles'
+core: 8.x
+package: 'Other'

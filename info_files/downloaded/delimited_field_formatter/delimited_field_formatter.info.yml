@@ -1,0 +1,7 @@
+name: Delimited Field Formatter
+type: module
+description: Provides various formatting options for delimited fields.
+core: 8.x
+package: Fields
+dependencies:
+  - field

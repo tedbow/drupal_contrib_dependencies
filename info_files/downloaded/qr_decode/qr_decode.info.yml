@@ -1,0 +1,4 @@
+name: 'QR Decoder Field'
+type: module
+description: 'Decode QR codes by uploading a foto, save image and decoded data'
+core: 8.x

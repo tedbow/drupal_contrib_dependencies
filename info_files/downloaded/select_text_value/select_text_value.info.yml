@@ -1,0 +1,4 @@
+name: 'Select Text Value'
+type: module
+description: 'Widget for text fields to offer pre-define values for selection'
+core: 8.x

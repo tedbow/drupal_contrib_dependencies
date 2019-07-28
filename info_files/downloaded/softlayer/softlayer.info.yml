@@ -1,0 +1,5 @@
+name: SoftLayer
+description: 'Provides SoftLayer API integration'
+type: module
+package: SoftLayer
+core: 8.x

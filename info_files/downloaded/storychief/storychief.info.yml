@@ -1,0 +1,6 @@
+name: 'Story Chief'
+type: module
+description: 'Post stories from Story Chief to your drupal website'
+package: Web services
+core: 8.x
+configure: storychief.admin

@@ -1,0 +1,8 @@
+name: Masquerade nominate
+description: Enables accounts to nominate other accounts which can masquerade as them
+project: masquerade_nominate
+type: module
+core: 8.x
+dependencies:
+  - masquerade:masquerade
+  

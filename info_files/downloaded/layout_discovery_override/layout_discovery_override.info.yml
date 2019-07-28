@@ -1,0 +1,7 @@
+name: Layout Discovery Override
+type: module
+description: Remove the default layouts provided by the Drupal core layout_discovery module.
+core: 8.x
+dependencies:
+  - layout_discovery
+version: '8.x-1.0'

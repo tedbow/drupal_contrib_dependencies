@@ -1,0 +1,7 @@
+name: Facets View Mode
+description: Render facets with entity view mode.
+package: Search
+core: 8.x
+type: module
+dependencies[]:
+  - facets

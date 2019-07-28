@@ -1,0 +1,6 @@
+name: Janrain Registration
+description: "Integrates Janrain Registration."
+package: Janrain
+
+type: module
+core: 8.x

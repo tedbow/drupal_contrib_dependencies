@@ -1,0 +1,7 @@
+name: Simple User Management
+type: module
+description: Interface for clients to manage their users for approving and delegating roles.
+core: 8.x
+package: Custom
+dependencies:
+  - role_delegation:role_delegation

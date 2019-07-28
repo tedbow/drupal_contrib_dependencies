@@ -1,0 +1,5 @@
+name: 'change_author_action'
+type: module
+description: 'Adds an extra action to nodes to allow changing the author in bulk.'
+core: 8.x
+package: 'User interface'

@@ -1,0 +1,4 @@
+name: 'DB Maintenance'
+description: 'Executes an OPTIMIZE TABLE query on MyISAM, InnoDB, or BerkeleyDB database tables in a MySQL database or a VACUUM on PostgreSQL tables.'
+core: 8.x
+type: module

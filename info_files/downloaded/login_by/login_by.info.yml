@@ -1,0 +1,8 @@
+name: Login By
+type: module
+description: 'User allow login by - email, username and both.'
+version: 8.x-1.0
+core: 8.x
+project: login_by
+
+configure: login_by.settings_form

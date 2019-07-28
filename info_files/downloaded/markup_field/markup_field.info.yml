@@ -1,0 +1,5 @@
+type: module
+name: Markup Field
+description: Stores the rendered output along with the dependent assets.
+package: Field types
+core: 8.x

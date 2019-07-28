@@ -1,0 +1,7 @@
+name: User External Invite
+type: module
+description: 'Allows users with permissions to assign a role and email invitations to other users. Requires external authentication.'
+core: 8.x
+configure: user_external_invite.configure
+dependencies:
+ - token

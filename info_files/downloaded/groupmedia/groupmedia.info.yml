@@ -1,0 +1,9 @@
+name: 'Group Media'
+description: 'Enables Group functionality for the Media module'
+package: 'Group'
+type: 'module'
+version: 2.0
+core: '8.x'
+dependencies:
+  - 'media'
+  - 'group'

@@ -1,0 +1,10 @@
+name: Video Embed JW Player (self hosted)
+type: module
+description: Adds the JW Player (for self hosted Videos) as Provider for Video Embed Fields.
+core: '8.x'
+package: Video Embed Field
+dependencies:
+  - video_embed_field
+version: '8.x-0.1'
+'interface translation project': video_embed_jw_self_hosted
+'interface translation server pattern': modules/custom/video_embed_jw_self_hosted/video_embed_jw_self_hosted.de.po

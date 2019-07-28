@@ -1,0 +1,9 @@
+name: change user route
+description: 'Allows administrators to change the path of login password registration and logout '
+core: 8.x
+type: module
+configure: simple.config
+package: User Path Change
+dependencies:
+- user
+type: module

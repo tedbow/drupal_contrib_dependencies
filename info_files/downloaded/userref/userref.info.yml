@@ -1,0 +1,6 @@
+name: 'User Reference Filter'
+description: 'Text filter allowing for referencing users with @smokris-style formatting.'
+type: module
+core: 8.x
+package: 'Input filters'
+

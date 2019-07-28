@@ -1,0 +1,6 @@
+name: Field Slideshow j360
+type: module
+description: 'Provides field display format for create 360 Degree Image Slider with power of jQuery.'
+core: 8.x
+dependencies:
+  - libraries (>=2.0)

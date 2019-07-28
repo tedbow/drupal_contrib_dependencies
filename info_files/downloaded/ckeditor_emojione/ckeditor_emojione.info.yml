@@ -1,0 +1,7 @@
+name: CKEditor emojione
+type: module
+description: 'Adds the emojione plugin to CKEditor.'
+core: 8.x
+package: CKEditor
+dependencies:
+  - drupal:ckeditor

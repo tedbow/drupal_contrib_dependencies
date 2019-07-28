@@ -1,0 +1,12 @@
+name: Panels Extended
+description: Adds several features to panels, including outputting as JSON.
+
+type: module
+core: 8.x
+package: Panels
+configure: panels_extended.admin.settings
+
+dependencies:
+  - ctools:ctools (>=3.1)
+  - panels:panels (>= 8.x-4.3)
+  - drupal:system (>=8.6)

@@ -1,0 +1,5 @@
+name: 'BitSensor'
+type: module
+core: 8.x
+description: BitSensor security monitoring plugin for Drupal
+configure: bitsensor

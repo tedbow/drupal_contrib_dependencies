@@ -1,0 +1,11 @@
+name: Google Perspective API
+description: Defines a formatted text field integrated with the Google's Perspective API.
+package: Field types
+
+type: module
+core: 8.x
+
+dependencies:
+  - drupal:node
+
+configure: perspective.form

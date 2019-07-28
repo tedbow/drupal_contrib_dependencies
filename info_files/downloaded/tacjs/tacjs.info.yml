@@ -1,0 +1,5 @@
+name: TacjS Tarteaucitron
+description: TAcjs module will manage the GDPR "general data protection regulation" .
+type: module
+core: 8.x
+package: TACJS

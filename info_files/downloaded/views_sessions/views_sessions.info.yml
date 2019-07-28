@@ -1,0 +1,5 @@
+name: Active Sessions For Views
+type: module
+description: Provides sessions as views data
+core: 8.x
+package: Views

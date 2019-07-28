@@ -1,0 +1,6 @@
+name: OutVoice
+description: Provides an interface to the OutVoice Platform API.
+package: OutVoice
+
+type: module
+core: 8.x

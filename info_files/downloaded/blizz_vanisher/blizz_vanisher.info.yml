@@ -1,0 +1,6 @@
+name: 'BLIZZ Vanisher'
+type: module
+description: "Lets all external scripts vanish from the DOM"
+package: Privacy
+core: 8.x
+configure: blizz_vanisher.settings

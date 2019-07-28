@@ -1,0 +1,8 @@
+name: Multicolumn
+type: module
+description: Generates a multi-column list.
+package: Filter
+core: 8.x
+# configure: filter.admin_overview
+dependencies:
+  - filter

@@ -1,0 +1,6 @@
+name: Config Override Warn
+description: Provide a warning message on configuration forms when any values on the form are possibly being overridden.
+type: module
+core: 8.x
+dependencies:
+  - drupal:system (>=8.5.0)

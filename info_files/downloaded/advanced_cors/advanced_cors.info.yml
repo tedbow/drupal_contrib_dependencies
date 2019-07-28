@@ -1,0 +1,6 @@
+name: Advanced CORS
+type: module
+description: Advanced CORS - Provides possibility to customize settings CORS by path patterns.
+package: Other
+core: 8.x
+configure: entity.route_config.collection

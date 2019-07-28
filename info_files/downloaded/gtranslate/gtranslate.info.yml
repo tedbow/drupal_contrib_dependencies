@@ -1,0 +1,8 @@
+name: GTranslate
+type: module
+core: 8.x
+description: Uses Google power to translate your website.
+package: Multilingual
+configure: gtranslate.settings
+dependencies:
+  - block

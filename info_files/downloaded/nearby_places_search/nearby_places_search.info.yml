@@ -1,0 +1,10 @@
+name: Nearby places search
+type: module
+description: Nearby places search by place types with Google Map API
+core: 8.x
+package: Other
+configure: nearby_places_search.admin_settings
+dependencies:
+  - libraries:libraries
+  - node
+  - block

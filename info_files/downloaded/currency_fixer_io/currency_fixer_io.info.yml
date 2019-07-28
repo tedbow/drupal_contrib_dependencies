@@ -1,0 +1,6 @@
+name: 'Currency fixer.io'
+description: 'Integrates fixer.io with Currency as an exchange rate provider'
+type: module
+core: 8.x
+dependencies:
+  - currency

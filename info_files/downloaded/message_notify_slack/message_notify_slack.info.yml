@@ -1,0 +1,8 @@
+name: 'Message Notify Slack integration'
+description: 'Provides Slack integration for the Message Notify module.'
+core: 8.x
+package: Message
+dependencies:
+  - message_notify
+  - slack
+type: module

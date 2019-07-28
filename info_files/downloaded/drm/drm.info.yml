@@ -1,0 +1,5 @@
+name: 'DRM'
+type: module
+description: 'Dependant Reference Method'
+core: 8.x
+package: 'Custom'

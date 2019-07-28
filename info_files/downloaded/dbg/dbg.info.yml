@@ -1,0 +1,5 @@
+name: Debug
+type: module
+description: Debugger
+core: 8.x
+package: Debug

@@ -1,0 +1,8 @@
+name: Ladybug
+type: module
+description: 'Provides integration with the Ladybug PHP debugger.'
+version: VERSION
+core: 8.x
+
+dependences:
+  - composer_manager

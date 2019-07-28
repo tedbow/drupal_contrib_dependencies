@@ -1,0 +1,15 @@
+name: Authorize.net for Payment
+description: 'Provides Authorize.net integration for the Payment module.'
+package: Payment
+
+type: module
+core: 8.x
+configure: entity.authnet_profile.collection
+
+php: 5.6
+
+# Dependencies
+dependencies:
+  - drupal:system (>=8.5)
+  - payment:payment
+  - creditfield:creditfield

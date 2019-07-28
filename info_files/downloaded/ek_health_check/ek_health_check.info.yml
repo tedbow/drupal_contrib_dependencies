@@ -1,0 +1,6 @@
+name: Health check
+type: module
+description: Allows admins to check site health.
+core: 8.x
+package: Performance
+version: 1.0

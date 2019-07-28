@@ -1,0 +1,7 @@
+name: 'CSS Debuger'
+type: module
+description: 'A tweet-sized debugger for visualizing your CSS layouts. Outlines every DOM element on your page a random (valid) CSS hex color.'
+core: 8.x
+package: Development
+tags:
+ - developer

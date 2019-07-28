@@ -1,0 +1,5 @@
+name: 'Social icons'
+description: Show social icons in a block
+core: 8.x
+package: Social
+type: module

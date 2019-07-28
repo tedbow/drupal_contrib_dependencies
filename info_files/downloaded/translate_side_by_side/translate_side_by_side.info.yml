@@ -1,0 +1,15 @@
+name: "Translate Side by Side"
+description: "Shows menus, nodes, blocks and taxonomy with source and target language side by side"
+core: 8.x
+package: Multilingual
+type: module
+configure: translate_side_by_side.admin
+dependencies:
+  - drupal:content_translation
+  - drupal:language
+test_dependencies:
+  - drupal:block_content
+  - drupal:menu_link_content
+  - drupal:menu_ui
+  - drupal:node
+  - drupal:taxonomy

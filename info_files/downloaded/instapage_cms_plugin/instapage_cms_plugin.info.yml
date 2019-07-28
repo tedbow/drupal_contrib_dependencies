@@ -1,0 +1,6 @@
+name: Instapage CMS Plugin
+type: module
+description: The best way for Drupal to seamlessly publish landing pages as a natural extension of your website.
+package: Web services
+core: '8.x'
+project: 'instapage_cms_plugin'

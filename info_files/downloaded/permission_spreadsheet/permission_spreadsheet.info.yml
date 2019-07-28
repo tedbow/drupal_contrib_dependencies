@@ -1,0 +1,10 @@
+name: Permission Spreadsheet
+description: Provides features to import/export permission via spreadsheet.
+package: Utility
+type: module
+core: 8.x
+configure: permission_spreadsheet.settings
+
+dependencies:
+  - drupal:file
+  - drupal:user

@@ -1,0 +1,17 @@
+name: Inventory
+type: module
+description: 'Drupal Inventory business solution.'
+package: 'Business Solution'
+core: 8.x
+configure: inventory.admin_config
+dependencies:
+  - bs_inventory:cbo_transaction
+  - bs_inventory:cycle_count
+  - bs_inventory:locator
+  - business_core:cbo_inventory
+  - business_core:cbo_item
+  - business_core:cbo_location
+  - business_core:cbo_organization
+  - business_core:cbs
+  - business_core:item_lot
+  - business_core:uom

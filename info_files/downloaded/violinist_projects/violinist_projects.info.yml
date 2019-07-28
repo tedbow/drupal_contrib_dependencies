@@ -1,0 +1,8 @@
+name: Violinist projects
+description: All things concerning projects on Violinist
+core: 8.x
+type: module
+dependencies:
+  - league_oauth_login
+  - league_oauth_login_github
+  - vcs_provider_client

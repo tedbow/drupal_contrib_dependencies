@@ -1,0 +1,4 @@
+name: Twig Namespaces
+type: module
+description: Register Twig Namespaces
+core: 8.x

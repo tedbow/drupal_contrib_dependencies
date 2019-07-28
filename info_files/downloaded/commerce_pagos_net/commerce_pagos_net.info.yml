@@ -1,0 +1,7 @@
+name: Commerce Pagos Net
+type: module
+description: Implements Pagos Net in Drupal Commerce checkout.
+package: Commerce
+core: 8.x
+dependencies:
+  - commerce:commerce_payment

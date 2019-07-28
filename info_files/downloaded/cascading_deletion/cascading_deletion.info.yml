@@ -1,0 +1,7 @@
+name: 'Cascading Deletion'
+type: module
+description: 'Manage cascading deletion of entities referred to other entity'
+core: 8.x
+package: 'Custom'
+dependencies:
+  - drupal:entity_reference

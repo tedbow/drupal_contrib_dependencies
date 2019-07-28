@@ -1,0 +1,8 @@
+name: Migrate GatherContent
+type: module
+description: 'Migrate content from GatherContent'
+core: '8.x'
+package: Migration
+dependencies:
+  - migrate
+  - migrate_plus:migrate_plus

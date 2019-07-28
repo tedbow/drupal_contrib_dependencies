@@ -1,0 +1,5 @@
+name: Role specific user block
+description: 'This module allows user to block all user related to particular role'
+type: module
+core: 8.x
+configure: role_specific_user_block.settings

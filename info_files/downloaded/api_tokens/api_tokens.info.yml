@@ -1,0 +1,8 @@
+name: API Tokens
+type: module
+description: Provides an input filter that allows to replace custom parametric tokens with rendered content.
+package: Filters/Editors
+version: VERSION
+core: 8.x
+dependencies:
+  - filter

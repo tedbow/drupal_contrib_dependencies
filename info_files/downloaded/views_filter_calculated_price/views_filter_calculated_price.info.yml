@@ -1,0 +1,8 @@
+name: Views Filter Calculated Price
+type: module
+description: 'Implements Views filter by commerce calculated price.'
+package: Commerce
+core: '8.x'
+dependencies:
+  - drupal:views
+  - commerce:commerce_currency_switcher

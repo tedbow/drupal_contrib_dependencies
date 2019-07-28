@@ -1,0 +1,7 @@
+name: Bazaarvoice
+description: 'Provides integration with the Bazaarvoice Conversations API'
+project: bazaarvoice
+package: Bazaarvoice
+type: module
+core: 8.x
+configure: bazaarvoice.admin_settings_form

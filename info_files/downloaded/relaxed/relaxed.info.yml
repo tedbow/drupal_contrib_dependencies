@@ -1,0 +1,13 @@
+name: 'RELAXed Web Services'
+type: module
+description: 'Provides a RESTful API that exposes all content entities over UUID endpoints. Utility endpoints are also provided subscribing to changes and handling content replication.'
+package: Web services
+core: 8.x
+dependencies:
+  - drupal:system (>=8.6.0)
+  - drupal:workspaces
+  - drupal:basic_auth
+  - multiversion:multiversion (>=8.x-2.x)
+test_dependencies:
+  - key:key
+  - encrypt:encrypt

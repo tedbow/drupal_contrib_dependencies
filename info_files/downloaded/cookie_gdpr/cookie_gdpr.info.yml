@@ -1,0 +1,9 @@
+name: 'Cookie GDPR'
+description: This module allow to make your website GDPR compliant.
+package: GDPR Compliance
+type: module
+version: '8.x-1.1'
+core: '8.x'
+project: 'cookie_gdpr'
+dependencies:
+  - block

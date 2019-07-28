@@ -1,0 +1,8 @@
+name: Anonymous Comment User Info
+type: module
+description: Provides anonymous user info on comments.
+core: 8.x
+package: Comments
+php: 7.1
+dependencies:
+  - drupal:comment (>=8.4.x)

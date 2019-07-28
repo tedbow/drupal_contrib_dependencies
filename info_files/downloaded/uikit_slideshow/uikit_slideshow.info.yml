@@ -1,0 +1,7 @@
+name: Uikit Slideshow
+type: module
+description: 'Provides a View display style to be used with uikit'
+package: Views
+core: '8.x'
+dependencies:
+  - views

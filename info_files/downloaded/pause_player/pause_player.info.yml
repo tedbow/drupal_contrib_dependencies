@@ -1,0 +1,9 @@
+name: Pause Player
+type: module
+description:  Adds formatter options which allows articles authors to use the Pause Player on videos fields
+package: Other
+core: 8.x
+dependencies:
+ - file
+interface translation project: pause_player
+interface translation server pattern: modules/pause_player/translations/%language.po

@@ -1,0 +1,7 @@
+name: Redirect Extensions
+type: module
+description: Custom extensions to the Redirect module (www.drupal.org/project/redirect).
+core: 8.x
+package: Custom
+dependencies:
+  - drupal:redirect

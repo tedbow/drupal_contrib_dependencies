@@ -1,0 +1,11 @@
+name: ZURB Foundation Sites Library
+description: Register ZURB Foundation Sites as a library by installing files in libraries/foundation-sites.
+type: module
+package: zurb_foundation
+core: 8.x
+configure: foundation_sites.admin
+libraries:
+  - foundation-sites/complete
+  - foundation-sites/essential
+  - foundation-sites/cdn
+  - foundation-sites/core

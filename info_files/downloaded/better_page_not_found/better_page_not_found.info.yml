@@ -1,0 +1,4 @@
+name: Better Page Not Found
+type: module
+description: 'Improved styling for 404, 403 and 404 error pages'
+core: 8.x

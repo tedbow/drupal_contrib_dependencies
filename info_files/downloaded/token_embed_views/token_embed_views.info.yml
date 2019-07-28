@@ -1,0 +1,5 @@
+name: Token embed views
+type: module
+description: Embed views using tokens.
+core: 8.x
+package: token

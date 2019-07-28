@@ -1,0 +1,5 @@
+name: Element SimpleFader
+type: module
+description: A module to fade in common elements (e.g. main logo) using jQuery
+package: User Interface
+core: 8.x

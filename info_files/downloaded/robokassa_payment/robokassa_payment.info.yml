@@ -1,0 +1,7 @@
+name: Robokassa Payment Method
+description: Robokassa Payment Method.
+type: module
+core: 8.x
+dependencies:
+ - payment_offsite_api
+package: Payment

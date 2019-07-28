@@ -1,0 +1,6 @@
+name: 'Entity tasks'
+description: 'Custom layout for the tasks'
+package: Utility
+core: '8.x'
+configure: entity_tasks.config
+type: module

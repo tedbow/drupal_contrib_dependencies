@@ -1,0 +1,4 @@
+name: Field List Details
+type: module
+description: Display additional details about fields on the list of fields for any entity type.
+package: Fields

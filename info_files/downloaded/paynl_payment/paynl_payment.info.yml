@@ -1,0 +1,11 @@
+type: module
+name: 'Pay.nl Payment'
+description: 'Provides Pay.nl integration for the Payment platform.'
+package: Payment
+core: 8.x
+
+configure: paynl_payment.paynl_config
+
+# Dependencies
+dependencies:
+  - payment:payment

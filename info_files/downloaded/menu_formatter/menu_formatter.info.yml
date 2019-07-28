@@ -1,0 +1,8 @@
+name: Menu Formatter
+type: module
+description: Provides a field formatter to display menu configuration entity references on the front end as menus.
+core: 8.x
+version: '8.x-1.0'
+dependencies:
+  - menu_ui
+  - entity_reference

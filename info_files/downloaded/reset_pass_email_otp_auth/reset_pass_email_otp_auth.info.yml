@@ -1,0 +1,6 @@
+name: Reset Password Email OTP Auth
+type: module
+description: 'Reset user password with OTP authentication.'
+package: Security
+core: 8.x
+configure: reset_pass_email_otp_auth.config

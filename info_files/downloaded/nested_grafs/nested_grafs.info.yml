@@ -1,0 +1,6 @@
+name: Nested Grafs
+description: Creates template suggestions for nested paragraphs.
+package: Paragraphs
+type: module
+dependencies:
+  - drupal:paragraphs

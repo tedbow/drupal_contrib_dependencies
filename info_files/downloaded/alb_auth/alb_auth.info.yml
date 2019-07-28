@@ -1,0 +1,6 @@
+name: ALB Authentication
+description: Authenticate to Drupal based on headers provided by an AWS Application Load Balancer
+type: module
+version: 1.0
+core: 8.x
+configure: alb_auth.admin_settings

@@ -1,0 +1,7 @@
+name: vimeo video uploader
+type: module
+description: Upload videos to vimeo on creation of content from your drupal.
+package: Vimeo
+dependencies:
+  - drupal:video_embed_field
+core: '8.x'

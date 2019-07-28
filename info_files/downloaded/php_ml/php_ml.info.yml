@@ -1,0 +1,4 @@
+name: PHP-ML
+description: Integration module with PHP-ML - Machine Learning library for PHP.
+type: module
+package: PHP-ML

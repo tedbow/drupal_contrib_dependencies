@@ -1,0 +1,5 @@
+name: 'jQuery waypoints'
+description: 'Add jQuery Waypoints plugin to the site'
+core: 8.x
+package: 'User interface'
+type: module

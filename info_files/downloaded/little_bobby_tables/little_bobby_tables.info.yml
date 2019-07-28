@@ -1,0 +1,6 @@
+name: Little Bobby Tables
+type: module
+description: Did you really name your son Robert'); DROP TABLE Students;-- ?
+core: 8.x
+dependencies:
+  - bad_judgement:bad_judgement

@@ -1,0 +1,13 @@
+name: 'Node Accessibility'
+type: module
+description: 'Provides validation functionality for nodes.'
+package: 'Accessibility'
+core: 8.x
+
+dependencies:
+  quail_api: quail_api
+  drupal: node
+  drupal: filter
+
+tags:
+  - accessibility

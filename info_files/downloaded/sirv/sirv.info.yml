@@ -1,0 +1,7 @@
+name: 'Sirv'
+type: module
+description: "Provides integration with Sirv's image processing and hosting platform."
+core: 8.x
+package: 'Other'
+dependencies:
+  - drupal:image

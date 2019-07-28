@@ -1,0 +1,7 @@
+name: Entity resource layer
+type: module
+description: Provides entity REST plugins for developers to extend and improve upon the core functionality.
+core: 8.x
+package: Other
+dependencies:
+  - drupal:rest

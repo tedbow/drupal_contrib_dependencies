@@ -1,0 +1,5 @@
+name: Pinterest Hoverbutton
+description: Adds Pin It buttons to your images when hovered over each image. Can exclude images by jQuery selector.
+type: module
+core: 8.x
+package: Media

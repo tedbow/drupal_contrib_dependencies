@@ -1,0 +1,9 @@
+name: Omeda Customers
+type: module
+description: Customer sync service for Omeda module.
+package: Omeda
+core: 8.x
+configure: omeda_customers.settings
+dependencies:
+  - omeda:omeda
+  - encryption:encryption

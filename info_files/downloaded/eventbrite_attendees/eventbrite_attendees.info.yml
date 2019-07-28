@@ -1,0 +1,8 @@
+name: Eventbrite Attendees
+description: 'Block that provides a list of Attendees to a given Eventbrite event ID'
+dependencies:
+  - drupal:node
+  - drupal:block
+configure: eventbrite_attendees.settings
+type: module
+core: 8.x

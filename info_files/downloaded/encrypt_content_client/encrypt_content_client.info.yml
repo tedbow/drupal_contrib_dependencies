@@ -1,0 +1,11 @@
+name: 'Client-Side Content Encrypt'
+dependencies:
+  - views
+  - field
+  - rest
+  - restui
+description: 'Client-side asymmetric cryptographic module for content nodes.'
+core: 8.x
+package: Encryption
+type: module
+configure: encrypt_content_client.config

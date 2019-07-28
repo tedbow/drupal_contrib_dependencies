@@ -1,0 +1,4 @@
+name: Hidey Help
+type: module
+description: 'Hides the help block and adds a button to toggle its visibility.'
+core: 8.x

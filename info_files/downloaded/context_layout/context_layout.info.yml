@@ -1,0 +1,7 @@
+name: Context Layout
+type: module
+description: 'Block Page Reaction (with Layout plugin integration)'
+core: 8.x
+package: Context
+dependencies:
+  - drupal:context

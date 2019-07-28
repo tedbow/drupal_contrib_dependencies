@@ -1,0 +1,5 @@
+name: 'Media entity Gist'
+type: module
+description: 'Embed a gist as media'
+core: 8.x
+package: 'Media'

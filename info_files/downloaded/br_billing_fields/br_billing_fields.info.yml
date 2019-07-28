@@ -1,0 +1,10 @@
+name: Brasilian Billing Fields
+type: module
+description: 'Billing fields for brazilians payments gateways'
+core: 8.x
+package: 'Commerce (contrib)'
+dependencies:
+  - cpf:cpf
+  - telephone:telephone
+'interface translation project': br_billing_fields
+'interface translation server pattern': modules/custom/br_billing_fields/br_billing_fields.pt-br.po

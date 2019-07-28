@@ -1,0 +1,21 @@
+name: Zoom Video Conference
+description: Integration with the Zoom Video Conference system.
+type: module
+core: 8.x
+version: 8.x-1.0
+package: Zoom
+dependencies:
+  # Core
+  - drupal:datetime
+  - drupal:field
+  - drupal:node
+  - drupal:options
+  - drupal:path
+  - drupal:telephone
+  - drupal:text
+  - drupal:user
+  - drupal:views
+  #contrib
+  - address:address
+  - jwt:jwt
+  - key:key

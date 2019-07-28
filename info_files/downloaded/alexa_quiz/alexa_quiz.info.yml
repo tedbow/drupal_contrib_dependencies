@@ -1,0 +1,8 @@
+name: Alexa Quiz
+type: module
+description: Demostrates an integration to Amazon Echo using quiz sample.
+core: 8.x
+package: Alexa
+configure: alexa_quiz.admin_settings
+dependencies:
+  - alexa:alexa

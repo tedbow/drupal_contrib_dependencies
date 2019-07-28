@@ -1,0 +1,8 @@
+name: 'Group Contact'
+description: 'Provides contact permissions for groups.'
+package: 'Group'
+type: 'module'
+core: '8.x'
+dependencies:
+  - 'contact'
+  - 'group'

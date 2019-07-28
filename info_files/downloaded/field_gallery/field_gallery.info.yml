@@ -1,0 +1,9 @@
+name: Field Gallery
+type: module
+description: "Create a gallery using values of a field."
+core: '8.x'
+#version: 8.x-1.0.0-dev
+
+package: Field
+dependencies:
+  - drupal:image

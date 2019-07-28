@@ -1,0 +1,6 @@
+name: Youtube API
+description: 'YoutubeAPI, tool kit for Google Youtube API V3'
+type: module
+core: 8.x
+
+configure: youtubeapi.settings

@@ -1,0 +1,4 @@
+name: Dynatree
+type: module
+description: 'Drupal integration with Dynatree. Display taxonomy terms in tree structure with the help of Dynatree Js library.'
+core: 8.x

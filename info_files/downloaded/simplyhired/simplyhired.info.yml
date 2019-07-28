@@ -1,0 +1,8 @@
+name: SimplyHired API
+type: module
+description: Creates a Drupal Service connecting the SimplyHired API library.
+core: 8.x
+package: SimplyHired
+configure: simplyhired.settings
+dependencies:
+  - libraries

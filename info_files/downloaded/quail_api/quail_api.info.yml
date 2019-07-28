@@ -1,0 +1,13 @@
+name: 'Quail API'
+type: module
+description: 'Integrates the Quail library into a drupal module for use as an API.'
+package: 'Accessibility'
+core: 8.x
+
+configure: quail_api.settings
+
+dependencies:
+  drupal: filter
+
+tags:
+  - accessibility

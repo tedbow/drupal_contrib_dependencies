@@ -1,0 +1,9 @@
+name: 'Lightning Accessibility'
+# core: 8.x
+type: module
+description: 'Lightning Accessibility.'
+package: Lightning
+dependencies:
+  - drupal:ckeditor
+  - ckeditor_a11ychecker
+  - ckeditor_balloonpanel

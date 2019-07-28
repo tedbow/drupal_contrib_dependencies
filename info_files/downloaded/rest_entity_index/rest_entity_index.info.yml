@@ -1,0 +1,7 @@
+name: REST Entity Index
+description: A Rest endpoint to expose an index of entities
+type: module
+core: 8.x
+package: Rest
+dependencies:
+  - drupal:rest

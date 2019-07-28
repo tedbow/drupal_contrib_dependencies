@@ -1,0 +1,9 @@
+name: Attach Library In Views
+description: Attach library in views in default as well as in dispaly section.
+type: module
+core: 8.x
+package: Views Library
+dependencies:
+  - views
+  - views_ui
+

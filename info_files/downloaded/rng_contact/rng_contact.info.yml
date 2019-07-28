@@ -1,0 +1,8 @@
+name: RNG Contact
+type: module
+description: 'Provides a simple contact entity type.'
+package: User Management
+core: 8.x
+dependencies:
+  - system (>=8.1)
+  - user

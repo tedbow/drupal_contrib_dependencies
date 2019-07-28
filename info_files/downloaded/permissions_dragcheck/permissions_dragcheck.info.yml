@@ -1,0 +1,6 @@
+name: Permissions DragCheck
+type: module
+description: 'Allows to check multiple permission checkboxes at once by click + drag'
+core: 8.x
+dependencies:
+  - libraries

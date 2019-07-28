@@ -1,0 +1,10 @@
+name: User Active Indicator
+type: module
+description: 'Adds an active state mark and/or timestamp to the username. '
+package: 'Tinsel Suite'
+core: 8.x
+hidden: false
+dependencies:
+  - drupal:page_access_user_data_timestamp
+  - drupal:user
+configure: user_active_indicator.settings

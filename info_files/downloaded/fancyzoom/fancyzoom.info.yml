@@ -1,0 +1,15 @@
+name: FancyZoom
+type: module
+description: Adds FancyZoom to all direct links to images (bypass with &lt;a rel="nozoom"&gt;).
+package: Media
+core: 8.x
+configure: fancyzoom.settings
+dependencies:
+  - libraries
+configure: fancyzoom.config
+
+# version: 8.x-1.0
+# tags[] = lightbox
+# tags[] = zoom
+# tags[] = images
+# files[] = fancyzoom_admin.inc

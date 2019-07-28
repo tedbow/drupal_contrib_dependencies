@@ -1,0 +1,5 @@
+name: Morse
+type: module
+description: converts the alphanumeric values into morse code and Vice versa.
+core: "8.x"
+project: "morse"

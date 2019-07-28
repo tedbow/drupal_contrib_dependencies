@@ -1,0 +1,7 @@
+name: 'Commerce China Payments'
+type: module
+description: 'Integrates with Alipay and WeChat Pay.'
+package: Commerce (contrib)
+core: 8.x
+dependencies:
+  - commerce_payment

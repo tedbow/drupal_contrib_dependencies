@@ -1,0 +1,6 @@
+name: 'Data Fixtures'
+description: Generates data fixtures
+package: Development
+
+type: module
+core: 8.x

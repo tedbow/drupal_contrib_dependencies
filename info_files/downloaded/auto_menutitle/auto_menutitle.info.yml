@@ -1,0 +1,6 @@
+name: Automatic Menu Titles
+type: module
+description: "Allows content types to set the default value of the 'Provide a menu link' checkbox."
+core: 8.x
+dependencies:
+  - menu_ui:menu_ui

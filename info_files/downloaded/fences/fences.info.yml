@@ -1,0 +1,4 @@
+name: Fences
+description: Alter wrapping markup of fields.
+core: 8.x
+type: module

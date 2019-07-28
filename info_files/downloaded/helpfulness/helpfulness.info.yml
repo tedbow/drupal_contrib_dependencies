@@ -1,0 +1,5 @@
+name: Helpfulness
+description: 'Provides a block for the user to leave feedback'
+core: 8.x
+configure: helpfulness.admin_form
+type: module

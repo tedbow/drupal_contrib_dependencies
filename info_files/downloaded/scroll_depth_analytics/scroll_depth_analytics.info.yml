@@ -1,0 +1,12 @@
+name: Scroll Depth Analytics
+description: Allows Page Scroll Tracking using scroll depth google analytics plugin.
+configure:
+package: Statistics
+type: module
+# core: 8.x
+dependencies:
+  - google_analytics
+hidden: false
+
+# Information added by Drupal.org packaging script on 2016-06-10
+core: '8.x'

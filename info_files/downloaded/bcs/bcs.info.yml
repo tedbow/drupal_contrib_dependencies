@@ -1,0 +1,5 @@
+name: Block Content Selected
+type: module
+description: My Awesome Module
+core: 8.x
+package: Maroc Develop

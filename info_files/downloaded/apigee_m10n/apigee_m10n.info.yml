@@ -1,0 +1,12 @@
+name: Apigee Monetization
+description: Apigee Edge Monetization Drupal integration
+package: Apigee
+
+type: module
+core: 8.x
+
+dependencies:
+  - apigee_edge:apigee_edge
+  - drupal:link
+
+php: "7.1"

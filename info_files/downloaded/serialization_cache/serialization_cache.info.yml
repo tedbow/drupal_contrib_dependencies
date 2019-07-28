@@ -1,0 +1,7 @@
+name: Serialization Cache
+type: module
+description: Provide caching for serialization.
+core: 8.x
+package: serialization_cache
+dependencies:
+  - serialization

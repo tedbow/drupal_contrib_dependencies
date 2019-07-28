@@ -1,0 +1,7 @@
+name: Super Term Reference Autocomplete Widget
+type: module
+description: Adds a form widget for seeing and editing the whole hierarchy in a term reference autocomplete.
+core: 8.x
+package: Fields
+dependencies:
+  - drupal:taxonomy

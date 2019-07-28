@@ -1,0 +1,7 @@
+name: Single Format Widget
+description: An input widget which forces a specific format.
+type: module
+core: 8.x
+
+dependencies:
+  - text

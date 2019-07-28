@@ -1,0 +1,5 @@
+name: 'Animate CSS'
+description: 'Animate CSS is a bunch of cool, fun, and cross-browser animations for you to use in your projects.'
+core: 8.x
+type: module
+package: 'User interface'

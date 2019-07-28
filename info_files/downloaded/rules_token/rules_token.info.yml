@@ -1,0 +1,8 @@
+name: Rules Token
+type: module
+description: Enables to use in Rules tokens provided by 'Token', 'Custom Tokens' and 'Custom Tokens Plus' modules.
+core: 8.x
+package: Rules
+dependencies:
+  - rules:rules
+  - token:token

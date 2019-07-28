@@ -1,0 +1,10 @@
+name: Campaign Kit
+type: module
+description: Create donation campaign(s) testing .
+core: 8.x
+configure: campaign_kit.configuration_form
+package: Campaign Kit
+dependencies:
+  - form_mode_manager:form_mode_manager
+  - hook_event_dispatcher:hook_event_dispatcher
+  - payment_stripe:payment_stripe

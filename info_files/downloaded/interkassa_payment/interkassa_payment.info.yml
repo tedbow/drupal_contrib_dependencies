@@ -1,0 +1,7 @@
+name: Interkassa Payment Method
+description: Provides the payment method for Interkassa service.
+type: module
+core: 8.x
+dependencies:
+ - payment_offsite_api
+package: Payment

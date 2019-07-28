@@ -1,0 +1,11 @@
+name: JSON Web Token
+description: Provides a basic JWT implentation for Drupal
+package: Web services
+
+type: module
+core: 8.x
+
+dependencies:
+  - key:key
+
+configure: jwt.settings

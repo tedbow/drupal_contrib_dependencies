@@ -1,0 +1,10 @@
+name: Thebing Snippet
+description: Use Thebing Software functionalities in your website
+package: Custom
+
+type: module
+core: 8.x
+
+dependencies:
+  - token
+  - token_filter

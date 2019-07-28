@@ -1,0 +1,6 @@
+name: 'Entity Legal State'
+description: 'Stores entity_legal document published version info in state rather than config entity.'
+type: module
+core: '8.x'
+dependencies:
+  - entity_legal

@@ -1,0 +1,5 @@
+name: 'Just Another Social Module (JASM)'
+type: module
+description: 'Provides an easy way to capture and list 3rd party social media accounts to build links for display in various ways on the front-end of this website'
+core: 8.x
+package: 'Social media'

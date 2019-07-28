@@ -1,0 +1,7 @@
+name: 'Google Geochart'
+type: module
+description: 'This module provides the Goole Geochart integration, https://developers.google.com/chart/interactive/docs/gallery/geochart'
+core: 8.x
+package: 'CHARTS'
+# libraries:
+#   - google_geochart/google_geochart

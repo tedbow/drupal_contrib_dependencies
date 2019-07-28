@@ -1,0 +1,9 @@
+name: CountUp
+type: module
+description: Provides a CountUp plugin for Ckeditor
+package: CKEditor
+core: 8.x
+dependencies:
+  - ckeditor
+  - editor
+

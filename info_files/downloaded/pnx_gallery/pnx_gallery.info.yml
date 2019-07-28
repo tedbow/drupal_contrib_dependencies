@@ -1,0 +1,9 @@
+name: PNX Gallery
+description: Recipe for gallery
+type: module
+core: 8.x
+dependencies:
+  - pnx_media
+  - node
+  - colorbox
+  - text

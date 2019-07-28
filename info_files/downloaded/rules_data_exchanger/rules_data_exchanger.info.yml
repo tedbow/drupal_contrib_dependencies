@@ -1,0 +1,7 @@
+name: Rules Data Exchanger
+type: module
+description: Enables to transfer any data from a Rule to components or other Rules.
+core: 8.x
+package: Rules
+dependencies:
+  - rules:rules

@@ -1,0 +1,5 @@
+type: module
+name: Forms to Email
+description: 'Send any form by email'
+core: 8.x
+configure: forms_to_email.form_settings

@@ -1,0 +1,4 @@
+name: Entity Count
+description: Builds reports with the number of entities.
+core: 8.x
+type: module

@@ -1,0 +1,7 @@
+name: Views Accordion Foundation
+type: module
+description: 'Provides an accordion and tabs views display plugin using ZURB Foundation accordion.'
+core: 8.x
+dependencies:
+  - drupal:views
+  - foundation_sites:foundation_sites

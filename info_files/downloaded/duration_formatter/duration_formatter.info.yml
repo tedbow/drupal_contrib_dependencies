@@ -1,0 +1,4 @@
+name: Duration Formatter
+type: module
+description: 'Provides field formatter for displaying durations.'
+core: 8.x

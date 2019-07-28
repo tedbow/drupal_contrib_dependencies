@@ -1,0 +1,9 @@
+name: Graph API
+description: Allow site builders to create graphs
+type: module
+package : Visualization
+core : 8.x
+configure: graphapi.settings
+tags:
+  - developer
+

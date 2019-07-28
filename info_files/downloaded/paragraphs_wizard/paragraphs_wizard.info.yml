@@ -1,0 +1,7 @@
+name: Paragraphs Wizard
+type: module
+description: Implements a field formatter for paragraphs to show them as a wizard
+core: 8.x
+package: Custom Modules
+dependencies:
+    - paragraphs:paragraphs

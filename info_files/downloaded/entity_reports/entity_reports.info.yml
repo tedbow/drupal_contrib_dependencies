@@ -1,0 +1,9 @@
+name: 'Provides reports about existing entities'
+description: Provides menu entries in 'Reports' with structure information for nodes, taxonomy terms and other entities. Also downloadable as JSON.
+type: module
+core: 8.x
+package: Reports
+dependencies:
+  - field
+  - node
+  - taxonomy

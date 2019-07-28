@@ -1,0 +1,5 @@
+name: Image Properties
+type: module
+description: Image properties field type.
+core: 8.x
+package: Image

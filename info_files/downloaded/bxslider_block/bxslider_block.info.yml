@@ -1,0 +1,7 @@
+name: bxSlider Block
+type: module
+description: The Responsive jQuery Content Slider.
+package: Slider
+dependencies:
+  - image:image
+  - libraries:libraries

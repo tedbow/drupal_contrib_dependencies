@@ -1,0 +1,10 @@
+name: CKEditor Syntax Highlighter
+type: module
+description: 'Integration for the CKEditor Syntax Highlight plugin.'
+package: User interface
+core: 8.x
+
+dependencies:
+  - libraries
+  - ckeditor
+  - syntaxhighlighter

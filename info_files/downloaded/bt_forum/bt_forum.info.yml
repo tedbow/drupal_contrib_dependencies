@@ -1,0 +1,8 @@
+name: 'Btester Forum'
+description: 'Btester Forum'
+type: module
+core: 8.x
+dependencies:
+  - bt_cms:bt_cms
+  - drupal:forum
+package: Btester

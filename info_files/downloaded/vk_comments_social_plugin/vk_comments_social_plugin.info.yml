@@ -1,0 +1,10 @@
+name: VK Сomments Social Plugin
+description: Integrates VK comments block
+type: module
+
+configure: vk_comments_social_plugin.settings
+
+version: '8.x-1.0'
+core: '8.x'
+project: 'vk_comments_social_plugin'
+datestamp: 1485074589

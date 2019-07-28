@@ -1,0 +1,6 @@
+name: External JS CSS
+type: module
+description: To load js file(s) on page load to make page rendering easiser in some situations
+version: '8.x-1.0'
+core: '8.x'
+configure: ext_js.settings_form

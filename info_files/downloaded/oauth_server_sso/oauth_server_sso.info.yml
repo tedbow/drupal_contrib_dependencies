@@ -1,0 +1,5 @@
+name: 'miniOrange OAuth Server'
+description: 'miniOrange OAuth Server.'
+core: 8.x
+configure: oauth_server_sso.config_client
+type: module

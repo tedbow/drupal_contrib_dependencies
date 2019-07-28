@@ -1,0 +1,7 @@
+name: 'Ckeditor Print'
+type: module
+description: 'This plugin activates the printing function. A standard operating system printing pop-up window will appear where you will be able to choose the printer as well as all relevant options.'
+core: 8.x
+package: 'CKEditor'
+dependencies:
+  - ckeditor

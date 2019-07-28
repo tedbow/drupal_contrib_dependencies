@@ -1,0 +1,8 @@
+name: 'Media entity consent'
+type: module
+description: 'Enables users to give consent to load external media before their IP is sent to the external media providers. Inspired by tagesschau.de'
+core: 8.x
+package: 'Media'
+configure: media_entity_consent.settings
+dependencies:
+  - media

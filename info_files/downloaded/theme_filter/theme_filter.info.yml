@@ -1,0 +1,5 @@
+type: module
+name: 'Theme Filter'
+description: 'Allows Theme path to be used as filters.'
+core: 8.x
+# version: VERSION

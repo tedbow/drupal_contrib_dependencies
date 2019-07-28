@@ -1,0 +1,5 @@
+name: 'Logged-in Users List'
+type: module
+description: 'Showing the list of logged-in users who have currently logged-in.'
+core: 8.x
+package: 'Custom'

@@ -1,0 +1,5 @@
+name: Syntax Highlighting Field Formatter
+type: module
+description: Highlights source code by a field formatter.
+core: 8.x
+package: Content

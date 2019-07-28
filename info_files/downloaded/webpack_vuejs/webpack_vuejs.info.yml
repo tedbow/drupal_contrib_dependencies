@@ -1,0 +1,9 @@
+name: Webpack Vue.js
+description: 'Adds Vue.js to webpack config.'
+type: module
+package: 'Javascript'
+#configure: webpack.config_page
+core: 8.x
+dependencies:
+  - webpack
+  - webpack_babel

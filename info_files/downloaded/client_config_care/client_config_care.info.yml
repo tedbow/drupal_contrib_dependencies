@@ -1,0 +1,8 @@
+name: Client Config Care
+type: module
+description: Respects client config by protecting it from accidental overwrite. Let's you track config which has been changed by clients.
+core: 8.x
+package: Configuration
+configure: client_config_care.config_blocker_entity
+dependencies:
+  - config_filter

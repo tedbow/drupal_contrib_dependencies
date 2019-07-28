@@ -1,0 +1,6 @@
+name: 'Media Entity File Redirect'
+description: 'Provides a new /document/[id] path for accessing files associated with media entities that have file sources.'
+type: module
+dependencies:
+- drupal:media
+core: '8.x'

@@ -1,0 +1,4 @@
+name: 'Lesser Forms'
+description: 'Beautify content creation by removing unneeded config.'
+core: 8.x
+type: module

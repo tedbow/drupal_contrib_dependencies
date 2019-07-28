@@ -1,0 +1,5 @@
+name: MissPlete
+type: module
+description: Drupal integration with MissPlete, a misspelling-tolerant autocomplete.
+core: 8.x
+package: User interface

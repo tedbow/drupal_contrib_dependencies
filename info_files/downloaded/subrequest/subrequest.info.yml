@@ -1,0 +1,6 @@
+name: Subrequest
+type: module
+description: Makes an internal sub-request and displays the response in a block.
+package: custom
+version: 8.x-1.0-dev
+core: 8.x

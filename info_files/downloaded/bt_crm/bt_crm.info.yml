@@ -1,0 +1,23 @@
+name: 'Btester CRM'
+type: module
+description: 'Btester CRM'
+core: 8.x
+version: 8.x-1.x
+dependencies:
+  - address:address
+  - bt_core:bt_core
+  - drupal:datetime
+  - drupal:telephone
+  - eck:eck
+  - field_collection:field_collection
+  - field_group:field_group
+  - field_states_ui:field_states_ui
+  - maxlength:maxlength
+  - pathauto:pathauto
+  - redhen:redhen
+  - redhen:redhen_connection
+  - redhen:redhen_contact
+  - redhen:redhen_org
+  - rut:rut
+  - rut:rut_field
+package: Btester

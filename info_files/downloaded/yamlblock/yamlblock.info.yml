@@ -1,0 +1,5 @@
+name: 'YAML Block'
+type: module
+description: 'Provides a base block that allows block configuration settings to be edited and maintained using YAML.'
+package: Block
+core: 8.x

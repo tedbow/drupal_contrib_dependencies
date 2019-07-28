@@ -1,0 +1,6 @@
+name: 'Extra Pagination'
+description: 'Adds a new set of pager items between the last visible pager link and the maximum pager number.'
+package: User Interface
+
+type: module
+core: 8.x

@@ -1,0 +1,5 @@
+name: 'Block Cache Metadata'
+type: module
+description: 'Set Block cache metadata.'
+core: 8.x
+package: 'Block'

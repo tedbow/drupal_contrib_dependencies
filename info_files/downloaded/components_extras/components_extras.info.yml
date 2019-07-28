@@ -1,0 +1,7 @@
+name: 'Components Extras'
+type: module
+description: 'Provide components plugin and an associated render element for developers'
+core: 8.x
+package: 'Other'
+dependencies:
+  - components

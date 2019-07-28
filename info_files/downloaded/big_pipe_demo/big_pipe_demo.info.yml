@@ -1,0 +1,9 @@
+name: BigPipe demo
+type: module
+description: 'Demonstrates how BigPipe speeds up pages containing uncacheable/personalized parts.'
+package: 'Performance and scalability'
+version: VERSION
+core: 8.x
+dependencies:
+  - drupal:big_pipe
+  - drupal:block

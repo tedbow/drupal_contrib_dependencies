@@ -1,0 +1,8 @@
+name: Rackspace Webmail Integration
+type: module
+description: "A module that uses nusoap for Rackspace Webmail API integration."
+package: Rackspace Webmail
+# core: 8.x
+dependencies:
+  - libraries:libraries
+configure: admin/config/services/rswebmail

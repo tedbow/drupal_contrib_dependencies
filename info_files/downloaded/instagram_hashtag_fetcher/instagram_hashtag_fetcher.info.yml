@@ -1,0 +1,9 @@
+name: 'Instagram Hashtag Fetch'
+type: module
+description: 'Creates picture entities from pictures fetched from an instagram tag'
+core: 8.x
+configure: instagram_pictures_configuration
+package: 'Custom'
+
+dependencies:
+  - draggableviews

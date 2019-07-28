@@ -1,0 +1,7 @@
+name: systempay
+type: module
+package: Payment
+description: 'Provides an interface for SystemPay'
+core: 8.x
+dependencies:
+  - payment:payment

@@ -1,0 +1,16 @@
+name: 'Social Post Video'
+description: 'Provides an new post type bundle.'
+type: module
+core: 8.x
+dependencies:
+  - drupal:comment
+  - dropdown:dropdown
+  - drupal:field
+  - drupal:file
+  - drupal:image
+  - image_effects:image_effects
+  - social_post:social_post
+  - drupal:text
+  - drupal:user
+  - drupal:video_embed_field
+package: Social

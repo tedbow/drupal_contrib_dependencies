@@ -1,0 +1,5 @@
+name: 'Enforce User Fields'
+type: module
+description: 'Force users to fill any required fields in user account at login.'
+core: 8.x
+

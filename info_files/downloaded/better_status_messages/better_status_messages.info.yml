@@ -1,0 +1,4 @@
+name: Better Status Messages
+type: module
+description: 'Styled status messages with a close button'
+core: 8.x

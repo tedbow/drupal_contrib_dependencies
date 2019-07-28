@@ -1,0 +1,7 @@
+name: Instagram Without API
+description: 'Instagram block that displays images Without API.'
+type: module
+core: 8.x
+dependencies:
+  - block
+version: '8.x-1.0'

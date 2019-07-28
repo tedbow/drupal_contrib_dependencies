@@ -1,0 +1,8 @@
+type: module
+name: Menu Target
+description: 'Various blocks, pages, and functions for developers.'
+package: Other
+core: 8.x
+configure: admin/structure/menu/settings
+tags:
+ - Menu system

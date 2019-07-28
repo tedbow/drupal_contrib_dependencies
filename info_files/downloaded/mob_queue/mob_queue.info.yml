@@ -1,0 +1,4 @@
+name: 'Drush Queue Handling'
+description: 'Process queued tasks until it is finished or given time expired.'
+core: 8.x
+type: module

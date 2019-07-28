@@ -1,0 +1,7 @@
+name: Btester Documents
+type: module
+description: Btester Documents
+core: 8.x
+package: Btester
+dependencies:
+  - bt_media:bt_media

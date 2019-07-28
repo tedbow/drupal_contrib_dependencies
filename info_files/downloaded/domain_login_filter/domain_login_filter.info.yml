@@ -1,0 +1,7 @@
+name: Domain Login Filter
+description: 'Prevents users from logging in to not assigned domain.'
+type: module
+package: Domain
+core: 8.x
+dependencies:
+  - domain:domain

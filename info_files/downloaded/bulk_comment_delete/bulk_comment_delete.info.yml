@@ -1,0 +1,7 @@
+name: bulk_comment_delete
+type: module
+description: Delete comments according content type
+core: 8.x
+package: Bulk Comment Delete
+dependencies:
+  - comment:comment

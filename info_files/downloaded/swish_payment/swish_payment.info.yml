@@ -1,0 +1,5 @@
+name: Swish Payment
+type: module
+description: Implement Swish Payment API
+core: 8.x
+package: Other

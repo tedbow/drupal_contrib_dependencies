@@ -1,0 +1,9 @@
+name: CleverReach®
+core: 8.x
+type: module
+description: 'CleverReach® Email Marketing Tool'
+package: CleverReach®
+dependencies:
+  - drupal:field
+  - drupal:user
+configure: clever_reach.settings

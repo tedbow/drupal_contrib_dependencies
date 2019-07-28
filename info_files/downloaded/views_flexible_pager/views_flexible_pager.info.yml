@@ -1,0 +1,8 @@
+name: 'Views Flexible Pager'
+description: 'Allows you to show a different number of items on the first page of a view.'
+type: module
+core: 8.x
+dependencies:
+  - drupal:views
+  - request_data_conditions:request_data_conditions
+  - context:context

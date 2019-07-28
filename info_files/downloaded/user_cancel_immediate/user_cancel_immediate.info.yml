@@ -1,0 +1,5 @@
+name: 'User Cancel Immediate'
+type: module
+description: 'Changes user cancellation to be immediate, with no email confirmation.'
+core: 8.x
+

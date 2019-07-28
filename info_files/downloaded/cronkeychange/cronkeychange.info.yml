@@ -1,0 +1,5 @@
+name: Cron Key Change
+core: 8.x
+type: module
+description: Allow change the cron key.
+configure: system.cron_settings

@@ -1,0 +1,15 @@
+name: Dropsolid Purge
+type: module
+description: 'Cache invalidation for sites running varnish'
+package: "Purge - reverse proxies & CDNs"
+dependencies:
+  - purge
+  - purge_drush
+  - purge_queuer_coretags
+  - purge_processor_cron
+  - purge_processor_lateruntime
+  - dynamic_page_cache
+  - page_cache
+
+core: '8.x'
+project: 'dropsolid_purge'

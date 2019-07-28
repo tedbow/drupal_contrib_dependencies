@@ -1,0 +1,7 @@
+name: 'stopwatch'
+type: module
+description: 'This module provides a block with a stopwatch'
+core: 8.x
+package: 'other'
+dependencies:
+  - block

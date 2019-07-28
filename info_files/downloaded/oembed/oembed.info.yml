@@ -1,0 +1,6 @@
+name: oEmbed
+description: Common functionality for oEmbed client and provider
+package: oEmbed
+core: 8.x
+type: module
+configure: oembed.settings

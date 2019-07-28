@@ -1,0 +1,6 @@
+name: 'PDF Slideshow'
+type: module
+description: 'PDF Slideshow'
+core: 8.x
+package: 'Media'
+version: '8.x-1.8'

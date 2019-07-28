@@ -1,0 +1,7 @@
+name: 'Ubuntu Drupal Header'
+description: 'Adds a block that can be used as a header. Offering various options for each node type.'
+core: 8.x
+package: 'Ubuntu Drupal'
+type: module
+dependencies:
+  - drupal:block

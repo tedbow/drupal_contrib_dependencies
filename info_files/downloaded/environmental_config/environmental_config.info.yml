@@ -1,0 +1,7 @@
+name: Environmental Config
+type: module
+description: Overrides the configuration to be sync based on the server environment
+core: 8.x
+package: Configuration
+dependencies:
+  - drupal:config

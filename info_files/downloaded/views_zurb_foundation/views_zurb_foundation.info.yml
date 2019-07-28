@@ -1,0 +1,7 @@
+name: Views Zurb Foundation
+type: module
+description: 'Views Zurb Foundation Components.'
+package: Views
+core: 8.x
+dependencies:
+  - drupal:views

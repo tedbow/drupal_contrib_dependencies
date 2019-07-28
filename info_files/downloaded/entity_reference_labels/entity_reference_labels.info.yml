@@ -1,0 +1,5 @@
+name: Entity Reference Labels
+type: module
+description: 'Provides more descriptive labels for entity reference fields.'
+project: 'entity_reference_labels'
+core: 8.x

@@ -1,0 +1,9 @@
+name: CoinPayments
+type: module
+description: 'Implements CoinPayments payment services for use with Drupal Commerce.'
+package: Commerce (CoinPayments)
+dependencies:
+  - commerce
+  - commerce:commerce_payment
+core: '8.x'
+project: 'commerce_coinpayments'

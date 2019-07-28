@@ -1,0 +1,5 @@
+name: 'CloudSight'
+type: module
+description: 'Automatically get alternative text for images'
+core: 8.x
+package: 'Custom'

@@ -1,0 +1,5 @@
+type: module
+name: Entity edit redirect
+description: Allows to redirect editing an entity to external server.
+package: Trusted redirect
+core: 8.x

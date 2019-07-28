@@ -1,0 +1,25 @@
+name: Parade
+description: Easy and flexible page creation using Paragraphs.
+package: Paragraphs
+type: module
+core: 8.x
+
+dependencies:
+  - drupal:view_mode_selector
+  - drupal:paragraphs
+  - drupal:machine_name
+  - drupal:image
+  - drupal:text
+  - drupal:geocoder
+  - drupal:geophp
+  - drupal:geocoder_autocomplete
+  - drupal:geofield
+  - drupal:leaflet
+  - drupal:aggregated_leaflet_map
+  - drupal:geocoder_field
+  - drupal:geocoder_geofield
+  - drupal:link
+  - drupal:options
+  - drupal:classy_paragraphs
+  - drupal:field_layout
+  - drupal:field_group

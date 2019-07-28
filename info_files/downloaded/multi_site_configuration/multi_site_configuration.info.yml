@@ -1,0 +1,7 @@
+name: Multi Site Configuration
+type: module
+description: Multi site configuration for multiple instances of domain
+core: 8.x
+package: domain
+dependencies:
+  - domain

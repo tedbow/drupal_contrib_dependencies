@@ -1,0 +1,5 @@
+name: google standout tag
+description: 'This module add google standout link to your site pages'
+type: module
+core: 8.x
+configure: google_standout.settings

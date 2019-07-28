@@ -1,0 +1,6 @@
+name: 'User Created By'
+type: module
+description: 'Allows to store the uid of the current user who created the user'
+core: 8.x
+dependencies:
+ - views

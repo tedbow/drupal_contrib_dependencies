@@ -1,0 +1,7 @@
+name: Video Embed Peertube
+type: module
+description: 'A video_embed_field integration with Peertube.'
+package: Video Embed Field
+core: 8.x
+dependencies:
+  - video_embed_field:video_embed_field

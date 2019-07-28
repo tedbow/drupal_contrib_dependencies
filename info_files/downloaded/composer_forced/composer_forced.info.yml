@@ -1,0 +1,6 @@
+name: Composer Forced
+type: module
+description: "Forces usage of composer by disabling the UI forms provided by core's update module for installation or updating of contrib modules."
+core: 8.x
+dependencies:
+  - update

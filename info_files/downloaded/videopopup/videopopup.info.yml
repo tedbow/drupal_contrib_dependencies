@@ -1,0 +1,5 @@
+name: Video Popup 
+type: module
+description: This module gives the popup field formatter for the Video field types.
+# core: 8.x
+package: Images

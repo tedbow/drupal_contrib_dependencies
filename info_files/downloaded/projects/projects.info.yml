@@ -1,0 +1,17 @@
+name: Projects
+type: module
+description: 'Projects management system.'
+package: 'Business solution'
+core: 8.x
+configure: projects.admin_config
+dependencies:
+  - business_core:cbo_organization
+  - business_core:cbs
+  - business_core:layout_masonry
+  - business_core:people
+  - drupal:panels
+  - drupal:page_manager
+  - projects:cbo_project
+  - projects:cbo_task
+  - projects:deliverable
+  - projects:issue

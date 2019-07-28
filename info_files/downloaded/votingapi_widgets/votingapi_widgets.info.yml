@@ -1,0 +1,9 @@
+name: Votingapi Widgets
+type: module
+description: 'Voting API Widgets.'
+core: 8.x
+package: Voting
+
+dependencies:
+  - votingapi
+  - field

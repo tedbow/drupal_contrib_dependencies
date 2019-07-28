@@ -1,0 +1,7 @@
+name: Language access
+description: Provide access permissions by language.
+type: module
+package: Multilingual
+core: 8.x
+dependencies:
+  - drupal:language

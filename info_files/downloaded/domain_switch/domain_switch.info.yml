@@ -1,0 +1,8 @@
+name: Domain Switch
+type: module
+description: Allows switching between multiple domains.
+core: 8.x
+package: Domain
+configure: domain_switch.config_form
+dependencies:
+  - Admin Toolbar:admin_toolbar

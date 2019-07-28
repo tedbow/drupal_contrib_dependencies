@@ -1,0 +1,5 @@
+name: 'Anonymous Publishing'
+description: 'Parent module of the Anonymous Publishing project. This project is for managing miscellaneous types of anonymous publishing.'
+package: 'Spam control'
+core: 8.x
+type: module

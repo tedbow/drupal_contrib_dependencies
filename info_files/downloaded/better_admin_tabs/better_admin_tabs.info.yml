@@ -1,0 +1,10 @@
+name: Better Admin Tabs
+type: module
+description: 'Improved layout for the Drupal admin tabs (view, edit, delete, ...)'
+# core: 8.x
+
+# Information added by Drupal.org packaging script on 2018-07-13
+version: '8.x-1.3'
+core: '8.x'
+project: 'better_admin_tabs'
+datestamp: 1531511932

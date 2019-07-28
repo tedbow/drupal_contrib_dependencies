@@ -1,0 +1,7 @@
+name: 'Entity Browser - Table Layout'
+type: module
+description: 'Creates a new Entity Browser display widget to display referenced content as a table.'
+core: 8.x
+package: 'Media'
+dependencies:
+  - entity_browser_table:entity_browser

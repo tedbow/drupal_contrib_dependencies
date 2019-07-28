@@ -1,0 +1,9 @@
+name: Parallax blocks
+type: module
+description: 'Parallax block types.'
+package: Parallax
+core: 8.x
+dependencies:
+  - 'drupal:field'
+  - 'drupal:system (>= 8.3)'
+  - 'drupal:user'

@@ -1,0 +1,7 @@
+name: Hide Path
+description: 'Provides an field formatter, who has hidden the path of images.'
+type: module
+core: 8.x
+package: 'LSD - Lepek Software Development'
+dependencies:
+ - responsive_image

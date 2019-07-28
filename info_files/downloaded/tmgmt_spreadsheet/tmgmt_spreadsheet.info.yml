@@ -1,0 +1,7 @@
+type: module
+name: 'TMGMT Export / Import spreadsheet'
+description: 'A translator which allows you to export source data into a spreadsheet and import the translated in return.'
+package: 'Translation Management'
+core: '8.x'
+dependencies:
+  - tmgmt:tmgmt_file

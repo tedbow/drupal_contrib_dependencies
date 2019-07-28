@@ -1,0 +1,9 @@
+name: Graph Phyz
+description: A graph render engine with physics
+type: module
+package : Visualization
+core : 8.x
+tags:
+  - developer
+dependencies:
+  - graphapi

@@ -1,0 +1,8 @@
+name: AddToAny DX8 integration
+type: module
+description: 'A bridge module between Cohesion DX8 and AddToAny. Creates social share icons for use within Cohesion DX8.'
+core: 8.x
+package: Other
+dependencies:
+  - cohesion
+  - addtoany

@@ -1,0 +1,8 @@
+name: Content Scroller
+description: Custom scrollbar for content
+core: 8.x
+type: module
+libraries:
+  - content_scroller/mscrollbar
+  - content_scroller/content_scroller_js
+configure: content_scroller.settings

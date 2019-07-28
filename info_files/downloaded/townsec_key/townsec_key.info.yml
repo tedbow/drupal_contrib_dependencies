@@ -1,0 +1,11 @@
+name: Townsend Security Key Connection
+description: >
+  Adds integration with Townsend Security Alliance Key Manager
+  encryption services.
+package: Security
+
+core: 8.x
+type: module
+
+dependencies: [key]
+

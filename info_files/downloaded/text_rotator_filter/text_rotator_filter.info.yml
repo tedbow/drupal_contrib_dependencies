@@ -1,0 +1,6 @@
+name: Text Rotator Filter
+type: module
+description: Adds a text format filter to display a simple text rotator.
+core: 8.x
+package: 'Filters'
+configure: filter.admin_overview

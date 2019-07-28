@@ -1,0 +1,6 @@
+name: Migrate drush commands
+type: module
+description: 'Simple migrate drush commands: run, generate.'
+core: 8.x
+dependencies:
+  - migrate

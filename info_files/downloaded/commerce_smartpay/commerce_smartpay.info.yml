@@ -1,0 +1,7 @@
+name: Commerce Smartpay
+type: module
+description: 'Provides Integration with the Barclaycard Smartpay Payment Gateway.'
+core: 8.x
+package: Commerce (contrib)
+dependencies:
+  - commerce_payment

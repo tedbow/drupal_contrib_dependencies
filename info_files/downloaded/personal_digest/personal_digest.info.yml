@@ -1,0 +1,9 @@
+name: Personal Digest
+type: module
+description: Users configure their own regular mail digest
+project: personal_digest
+core: 8.x
+configure: personal_digest.settings
+dependencies:
+  - views:views
+

@@ -1,0 +1,8 @@
+name: 'Btester FAQ'
+description: 'Btester FAQ'
+type: module
+core: 8.x
+dependencies:
+  - bt_cms:bt_cms
+  - faq:faq
+package: Btester

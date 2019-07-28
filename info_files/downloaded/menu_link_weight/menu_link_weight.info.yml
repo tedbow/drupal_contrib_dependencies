@@ -1,0 +1,10 @@
+name: 'Menu Link Weight'
+description: 'Replaces the menu link weight dropdown with a tabledrag widget'
+type: module
+core: 8.x
+dependencies:
+  - menu_ui
+  - node
+test_dependencies:
+  - cshs
+configure: menu_link_weight.settings

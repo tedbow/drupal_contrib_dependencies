@@ -1,0 +1,5 @@
+name: Page Access
+type: module
+description: This module provide the access to set like View and Edit in page level, which is  based on roles and users.
+core: 8.x
+package: Permission

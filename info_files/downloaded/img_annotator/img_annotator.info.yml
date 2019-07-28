@@ -1,0 +1,7 @@
+name: Image Annotator
+description: Annotating images using Annotorious library.
+package: Other
+configure: img_annotator.node_admin_settings
+
+type: module
+core: 8.x

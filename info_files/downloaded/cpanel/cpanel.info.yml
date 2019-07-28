@@ -1,0 +1,6 @@
+name: cPanel
+type: module
+description: Provide cPanel access to selected users.
+package: cPanel
+core: 8.x
+hidden: false

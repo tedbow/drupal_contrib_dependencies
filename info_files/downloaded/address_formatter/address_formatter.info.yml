@@ -1,0 +1,8 @@
+name: Address Formatter
+description: Provides new formatter for address field.
+type: module
+core: 8.x
+package: Field types
+configure: entity.address_formatter.collection
+dependencies:
+ - address

@@ -1,0 +1,7 @@
+name: 'jms serializer'
+type: 'module'
+description: 'jms serializer'
+package: 'synetic modules'
+
+core: 8.x
+project: 'synetic'

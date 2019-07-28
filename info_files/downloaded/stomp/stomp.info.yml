@@ -1,0 +1,4 @@
+name: Stomp
+type: module
+description: "Stomp module uses a protocol"
+core: 8.x

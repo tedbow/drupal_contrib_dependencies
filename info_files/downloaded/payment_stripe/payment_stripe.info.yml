@@ -1,0 +1,10 @@
+name: 'Payment Stripe'
+type: module
+description: 'Stripe payment plugin.'
+core: 8.x
+package: 'Payment'
+configure: 'payment_stripe.settings'
+dependencies:
+  - payment:payment
+  - stripe:stripe
+

@@ -1,0 +1,8 @@
+name: Image Base64 Formatter
+type: module
+description: Adds a simple formatter for image fields that prints the base64 of the image.
+# Information hope to be added by drupal.org packaging script after 2018-06-07
+core: '8.x'
+package: Field types
+dependencies:
+  - drupal:image

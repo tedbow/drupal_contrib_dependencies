@@ -1,0 +1,5 @@
+name: 'Disposable Email Address (DEA) Blocker'
+type: module
+description: 'Prevent users from entering a Disposable Email Address in Drupal forms.'
+configure: dea_blocker.admin
+core: 8.x

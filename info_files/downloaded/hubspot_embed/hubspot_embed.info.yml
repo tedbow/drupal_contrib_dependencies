@@ -1,0 +1,8 @@
+name: Hubspot Embed
+type: module
+description: Embed hubspot components through a field, block or the ckEditor.
+package: Hubspot
+core: 8.x
+dependencies:
+  - drupal:block
+  - drupal:field

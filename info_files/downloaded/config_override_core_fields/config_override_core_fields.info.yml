@@ -1,0 +1,5 @@
+name: 'Config Override Core Fields'
+type: module
+description: 'Provides hints to how form elements map to configuration objects.'
+core: 8.x
+package: 'Administration'

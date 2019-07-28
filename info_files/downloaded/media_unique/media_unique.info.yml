@@ -1,0 +1,7 @@
+name: 'Media Unique'
+core: 8.x
+package: Media
+dependencies:
+  file_entity: 'file_entity:file_entity'
+  efq_extra_field: 'efq_extra_field:efq_extra_field'
+type: module

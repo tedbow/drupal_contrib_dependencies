@@ -1,0 +1,5 @@
+name: Reset Password Link Expire
+type: module
+description: 'Expire all old reset password link via mail'
+package: Password Link
+core: '8.x'

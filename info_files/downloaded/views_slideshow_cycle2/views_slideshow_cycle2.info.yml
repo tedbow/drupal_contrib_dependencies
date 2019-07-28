@@ -1,0 +1,8 @@
+name: Views Slideshow Cycle2
+type: module
+description: 'Adds a responsive rotating slideshow mode to Views Slideshow.'
+package: Views
+core: 8.x
+configure: views_slideshow_cycle2.settings
+dependencies:
+  - views_slideshow:views_slideshow

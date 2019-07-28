@@ -1,0 +1,6 @@
+name: Age Calculator
+type: module
+description: Provides a very simple user interface from where users can calculate their age.
+core: 8.x
+package: Age Calculator
+configure: age_calculator.settings

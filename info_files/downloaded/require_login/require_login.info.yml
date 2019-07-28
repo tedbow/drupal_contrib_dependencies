@@ -1,0 +1,5 @@
+name: 'Require login'
+description: 'Require login authentication regardless of user permissions.'
+type: module
+core: 8.x
+configure: require_login.admin

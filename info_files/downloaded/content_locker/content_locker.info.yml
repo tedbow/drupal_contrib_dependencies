@@ -1,0 +1,9 @@
+name: Content locker
+type: module
+description: 'Locks your most valuable site content.'
+package: Content
+core: 8.x
+configure: content_locker.admin_settings
+dependencies:
+  - field_group:field_group
+  - shortcode:shortcode

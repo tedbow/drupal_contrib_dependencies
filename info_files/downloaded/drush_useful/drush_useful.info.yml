@@ -1,0 +1,10 @@
+name: Useful Drush Commands
+type: module
+description: Provides various useful drush commands for common drupal operations.
+# core: 8.x
+
+# Information added by Drupal.org packaging script on 2018-02-02
+version: '8.x-1.x-dev'
+core: '8.x'
+project: 'drush_useful'
+datestamp: 1517578811

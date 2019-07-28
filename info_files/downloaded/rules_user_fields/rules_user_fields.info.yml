@@ -1,0 +1,7 @@
+name: 'Rules User Fields'
+type: module
+description: 'Enables to get access to all fields (including custom) of User entity from Rules.'
+core: 8.x
+package: 'Rules'
+dependencies:
+  - rules:rules

@@ -1,0 +1,5 @@
+name: Ajax Content
+type: module
+description: Load internal paths content via ajax.
+core: 8.x
+package: Custom

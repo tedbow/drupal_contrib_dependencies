@@ -1,0 +1,7 @@
+name: Entity Change Notifier
+type: module
+description: Notify about entity updates
+core: 8.x
+dependencies:
+  - jsonapi:jsonapi
+configure: entity_change_notifier.settings

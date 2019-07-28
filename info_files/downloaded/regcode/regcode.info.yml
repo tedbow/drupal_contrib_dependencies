@@ -1,0 +1,7 @@
+name: 'Registration codes'
+description: 'Provides functionality for using/enabling/requiring registration codes upon user registration.'
+package: Registration
+core: 8.x
+dependencies:
+  views: 'drupal:views'
+type: module

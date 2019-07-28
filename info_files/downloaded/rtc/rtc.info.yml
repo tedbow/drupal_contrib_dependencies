@@ -1,0 +1,5 @@
+name: 'Drupal Real Time Communication'
+type: module
+description: 'Drupal real time communication modules, helps you to have real time communication from server to client.'
+core: 8.x
+package: 'services'

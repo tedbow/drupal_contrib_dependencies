@@ -1,0 +1,15 @@
+name: DROWL Paragraphs
+type: module
+description: 'DROWL Paragraphs enhancements like settings fields and other UX / UI / Helper stuff.'
+core: 8.x
+
+# Dependencies
+dependencies:
+  - drupal:field
+  - paragraphs:paragraphs
+  - field_group:field_group
+  - drupal:breakpoint
+  - entity_reference_layout:entity_reference_layout
+  - twig_tweak:twig_tweak
+  - responsive_background_image:responsive_background_image
+php: 7.0

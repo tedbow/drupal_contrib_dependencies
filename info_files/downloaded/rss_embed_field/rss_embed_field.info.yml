@@ -1,0 +1,6 @@
+name: RSS Embed Field
+description: 'A lightweight module that integrates and sets up a field within a Content type, that offers the ability to display the latest Posts from a specific RSS-Feed within a node.'
+type: module
+core: 8.x
+dependencies:
+  - link

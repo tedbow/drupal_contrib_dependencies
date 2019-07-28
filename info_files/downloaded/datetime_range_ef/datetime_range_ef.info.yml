@@ -1,0 +1,7 @@
+name: 'Datetime Range Extra Formatters'
+type: module
+description: 'Provide extra datetime range formatters'
+core: 8.x
+package: 'Custom'
+dependencies:
+  - datetime_range

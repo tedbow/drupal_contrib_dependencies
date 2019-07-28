@@ -1,0 +1,6 @@
+name: Vitalsource Checkout
+core: 8.x
+type: module
+dependencies:
+  - vitalsource_api:vitalsource_api
+  - commerce:commerce_log

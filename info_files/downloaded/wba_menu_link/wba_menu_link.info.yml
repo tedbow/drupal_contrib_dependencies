@@ -1,0 +1,9 @@
+name: Workbench Access Menu Link
+type: module
+core: 8.x
+description: Hierarchical access control for menus based on a Menu link field.
+package: Workbench
+
+dependencies:
+  - menu_link
+  - workbench_access

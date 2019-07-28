@@ -1,0 +1,5 @@
+name: 'TINT'
+type: module
+description: 'Integration with the TINT social feed platform.'
+core: 8.x
+package: 'Custom'

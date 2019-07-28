@@ -1,0 +1,5 @@
+name: Year only
+type: module
+description: Provide field to collect year only.
+package: Date
+core: 8.x

@@ -1,0 +1,5 @@
+name: Pubble.io Field
+description: Formats an integer field (Pubble app ID) to render a Pubble.io application.
+package: Fields
+type: module
+core: 8.x

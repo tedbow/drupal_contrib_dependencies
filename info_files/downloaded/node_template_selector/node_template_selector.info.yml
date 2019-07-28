@@ -1,0 +1,10 @@
+name: Node Template Selector
+description: Allows content creators to pick their template of choice from the node or entity creation page.
+dependencies:
+  - entity:system (>=8.1.0)
+  - node:system (>=8.1.0)
+version: '8.x-1.0'
+type: module
+core: '8.x'
+project: 'node_template_selector'
+datestamp: 1499936661

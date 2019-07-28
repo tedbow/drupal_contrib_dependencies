@@ -1,0 +1,8 @@
+name: JSON API Flysystem Uploader
+type: module
+description: Allows JSON API representations of specific entities to be automatically uploaded to a Flysystem-based endpoint upon creation or modification.
+core: 8.x
+package: Web services
+dependencies:
+  - flysystem:flysystem
+  - jsonapi_extras:jsonapi_extras (>=8.x-3.3)

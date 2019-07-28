@@ -1,0 +1,5 @@
+name: Custom Voice Search
+type: module
+description: Custom Voice Search
+core: 8.x
+configure: custom_voice_search.custom_voice_search_form

@@ -1,0 +1,7 @@
+name: Config Export Ignore
+type: module
+description: Allows to ignore configurations while exporting via config split
+core: 8.x
+package: Config
+dependencies:
+  - config_split:config_split

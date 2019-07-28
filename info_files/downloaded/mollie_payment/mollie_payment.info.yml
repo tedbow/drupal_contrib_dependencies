@@ -1,0 +1,9 @@
+type: module
+name: 'Mollie Payment'
+description: 'Provides Mollie integration for the Payment platform'
+package: Payment
+core: 8.x
+
+# Dependencies
+dependencies:
+  - payment

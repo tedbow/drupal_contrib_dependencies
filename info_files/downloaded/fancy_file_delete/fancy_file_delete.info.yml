@@ -1,0 +1,16 @@
+name: 'Fancy File Delete'
+type: module
+description: 'Delete Multiple Files Based off FID or orphaned / unamaged files.'
+# core: 8.x
+package: Administration
+dependencies:
+  - drupal:block
+  - drupal:views
+  # - views_bulk_operations
+scripts:
+  - js/fancyfiledelete.js
+
+version: '8.x-1.x-dev'
+core: '8.x'
+project: 'fancy_file_delete'
+datestamp: 1444524644

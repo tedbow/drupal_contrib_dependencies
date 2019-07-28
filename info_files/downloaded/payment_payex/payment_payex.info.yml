@@ -1,0 +1,8 @@
+name: 'Payment PayEx'
+type: module
+description: 'PayEx payment plugin.'
+core: 8.x
+package: 'Custom'
+dependencies:
+  - payment:payment
+  - payex:payex

@@ -1,0 +1,15 @@
+name: AmoebaCrm
+type: module
+description: 'Provides functionality for AmoebaCrm service.'
+core: 8.x
+package: AmoebaCRM
+dependencies:
+  - drupal:taxonomy
+  - drupal:telephone
+  - address:address
+  - content_planner:content_planner
+  - inline_entity_form:inline_entity_form
+  - drupal:rest
+  - restui:restui
+  - oauth2_server:oauth2_server
+configure: amoebacrm.config.main

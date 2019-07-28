@@ -1,0 +1,5 @@
+name: Live Weather
+type: module
+core: 8.x
+description: 'A simple module that provides a customized weather report.'
+configure: live_weather.location

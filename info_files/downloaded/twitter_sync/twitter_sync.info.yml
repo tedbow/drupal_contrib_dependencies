@@ -1,0 +1,13 @@
+name: 'Twitter Sync'
+description: 'Twitter synchronizator! This module Sync a account with it''s lasts tweets by running cron.'
+type: module
+core: 8.x
+dependencies:
+  - content_moderation
+  - field
+  - language
+  - menu_ui
+  - node
+  - path
+  - user
+version: 8.x-1.0

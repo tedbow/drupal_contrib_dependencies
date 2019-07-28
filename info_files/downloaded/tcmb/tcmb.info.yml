@@ -1,0 +1,5 @@
+name: Tcmb
+type: module
+description: Shows daily currency rates from TCMB (Turkish Republic Central Bank), and gold prices.
+core: 8.x
+configure: tcmb.currency_settings

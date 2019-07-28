@@ -1,0 +1,5 @@
+name: 'Simple Zoom'
+type: module
+description: 'Opens images in popup'
+core: 8.x
+package: 'Zoom'

@@ -1,0 +1,8 @@
+name: Purge Cache Warmer
+core: 8.x
+description: Implements a cache warmer which rebuilds a URL after the cache is cleared.
+type: module
+package: Purge
+dependencies:
+  - purge
+  - purge_queuer_url

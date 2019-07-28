@@ -1,0 +1,7 @@
+name: Timed Node Page
+type: module
+description: Provides pages based on nodes that should be displayed by time/range.
+package: node
+core: 8.x
+dependencies:
+  - drupal:node

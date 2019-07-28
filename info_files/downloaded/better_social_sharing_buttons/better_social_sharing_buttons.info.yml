@@ -1,0 +1,5 @@
+name: Better Social Sharing Buttons
+type: module
+description: Provides a settings page, a field, a paragraph and a block for social sharing buttons
+configure: better_social_sharing_buttons.config
+core: 8.x

@@ -1,0 +1,8 @@
+name: Polaris
+type: module
+description: Enables integration with the Polaris ILS.
+core: 8.x
+package: Richland Custom
+dependencies:
+  - externalauth
+  - key

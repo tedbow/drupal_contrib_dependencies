@@ -1,0 +1,5 @@
+name: 'Donut chart'
+type: module
+description: 'Enables the ability to output numeric inputs as configurable donut charts.'
+core: 8.x
+package: 'Fields'

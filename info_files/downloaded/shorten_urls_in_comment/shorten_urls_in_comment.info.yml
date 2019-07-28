@@ -1,0 +1,5 @@
+name: shorten urls in comment
+type: module
+description: Automatic transformation of the URL in comment using Google Shortener API
+core: 8.x
+package: Custom

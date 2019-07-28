@@ -1,0 +1,8 @@
+name: Rest Menu Detail
+type: module
+description: Menu information as REST response.
+core: 8.x
+package: Web services
+dependencies:
+  - restui
+configure: rest_menu_detail.menu_rest_settings_form

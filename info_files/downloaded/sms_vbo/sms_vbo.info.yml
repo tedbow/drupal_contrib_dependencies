@@ -1,0 +1,8 @@
+name: SMS VBO
+type: module
+description: Integrate sending SMS with views bulk operations
+core: 8.x
+package: SMS
+dependencies:
+  - views_bulk_operations
+  - sms

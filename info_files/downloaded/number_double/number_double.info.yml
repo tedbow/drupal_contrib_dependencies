@@ -1,0 +1,7 @@
+name: 'Number Double'
+type: module
+description: 'Define schema for a MySQL double field'
+core: 8.x
+dependencies:
+  - field
+  - field_ui

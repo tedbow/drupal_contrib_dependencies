@@ -1,0 +1,7 @@
+name: Btester Slideshow
+type: module
+description: Btester Slideshow
+core: 8.x
+package: Btester
+dependencies:
+  - bt_media:bt_media

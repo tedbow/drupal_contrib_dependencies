@@ -1,0 +1,4 @@
+name: Die in Twig
+description: This module provides the functionality of stoping the executaion of script in twig file. Like we do in PHP through die function.
+type: module
+core: 8.x

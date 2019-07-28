@@ -1,0 +1,5 @@
+name: 'Call tracking'
+description: 'You can add telephones, who will be change depends of utm labels'
+type: module
+core: '8.x'
+configure: calltracking.admin_settings

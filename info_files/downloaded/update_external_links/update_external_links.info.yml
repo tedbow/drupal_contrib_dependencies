@@ -1,0 +1,5 @@
+name: Update External Links
+description: 'Module to open external link in new tab.'
+type: module
+core: 8.x
+configure: update_external_links.external_links

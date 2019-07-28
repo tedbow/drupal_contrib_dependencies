@@ -1,0 +1,4 @@
+name: Menus Attribute
+type: module
+description: 'Attributes for menu links'
+core: 8.x

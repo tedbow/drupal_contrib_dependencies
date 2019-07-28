@@ -1,0 +1,7 @@
+name: Cron Time
+type: module
+description: set manual corn time
+core: 8.x
+version: 8.1
+
+configure: csv_uploader.csv_uploader_form

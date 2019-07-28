@@ -1,0 +1,11 @@
+name: Easy Email
+type: module
+description: A simple system for sending HTML-formatted emails
+package: Mail
+core: 8.x
+configure: entity.easy_email_type.collection
+
+dependencies:
+  - token:token
+  - mailsystem:mailsystem
+  - swiftmailer:swiftmailer

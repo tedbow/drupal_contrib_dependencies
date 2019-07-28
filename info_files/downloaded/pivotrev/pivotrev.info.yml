@@ -1,0 +1,10 @@
+name: PIVOTREV
+type: module
+description: 'This module act as an interface of PIVOTREV an online review and rating system'
+package: Custom
+version: 8.x
+core: 8.x
+dependencies:
+  - node
+  - block
+

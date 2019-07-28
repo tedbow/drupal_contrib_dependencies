@@ -1,0 +1,8 @@
+name: Commerce NZ Post
+type: module
+description: 'Provides NZ Post integration with Commerce Shipping.'
+package: Commerce (shipping)
+core: 8.x
+dependencies:
+  - drupal:commerce
+  - drupal:commerce_shipping

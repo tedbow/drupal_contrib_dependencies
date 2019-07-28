@@ -1,0 +1,4 @@
+name: Video Embed Google Drive
+type: module
+core: 8.x
+description: Embed Google Drive videos into your website using Video Embed Field.

@@ -1,0 +1,12 @@
+name: Btester Media
+type: module
+description: Btester Multimedia
+core: 8.x
+package: Btester
+dependencies:
+  - bt_core:bt_core
+  - bt_cms:bt_cms
+  - media_entity_generic:media_entity_generic
+  - media_entity_slideshow:media_entity_slideshow
+  - media_entity_instagram:media_entity_instagram
+  - media_entity_twitter:media_entity_twitter

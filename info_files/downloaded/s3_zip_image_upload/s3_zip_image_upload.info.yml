@@ -1,0 +1,12 @@
+name: S3 Zip Image Upload
+description: 'Upload images on AMAZON S3'
+core: 8.x
+package: Media
+type: module
+project: s3_zip_image_upload
+dependencies:
+    - drupal:s3fs
+
+
+
+

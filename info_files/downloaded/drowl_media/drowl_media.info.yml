@@ -1,0 +1,36 @@
+name: 'DROWL Media'
+description: 'DROWL media (entity) default configurations and enhancements.'
+type: module
+core: 8.x
+dependencies:
+  - blazy:blazy
+  - crop:crop
+  - dropzonejs:dropzonejs_eb_widget
+  - embed:embed
+  - entity_browser:entity_browser
+  - entity_browser:entity_browser_entity_form
+  - entity_embed:entity_embed
+  - fences:fences
+  - drupal:field
+  - field_group:field_group
+  - drupal:file
+  - focal_point:focal_point
+  - drupal:image
+  - inline_entity_form
+  - drupal:language
+  - drupal:link
+  - metatag
+  - drupal:node
+  - drupal:options
+  - drupal:path
+  - pathauto:pathauto
+  - rabbit_hole:rabbit_hole
+  - drupal:responsive_image
+  - smart_trim:smart_trim
+  - drupal:taxonomy
+  - drupal:text
+  - drupal:user
+  - video_embed_field:video_embed_field
+  - drupal:views
+  - views_linkarea:views_linkarea
+  - viewsreference:viewsreference

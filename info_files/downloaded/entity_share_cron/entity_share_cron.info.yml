@@ -1,0 +1,8 @@
+name: Entity Share Cron
+type: module
+description: Synchronizes entities on Cron execution.
+core: 8.x
+package: Web services
+configure: entity_share_cron.settings
+dependencies:
+  - entity_share:entity_share_client

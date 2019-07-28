@@ -1,0 +1,6 @@
+name: "Node Edit Redirect"
+description: "Ensures that the node edit form language matches the language of the node."
+package: "Multilingual - Internationalization"
+core: 8.x
+type: module
+

@@ -1,0 +1,12 @@
+name: Bulk Content Operation
+description: Manage operations on bulk contents like export, import and download template of content type.
+package: Bulk Operation
+type: module
+core: 8.x
+
+dependencies:
+- drupal:node
+- phpexcel:phpexcel
+- libraries:libraries
+
+configure: bulk_content_operation.settings

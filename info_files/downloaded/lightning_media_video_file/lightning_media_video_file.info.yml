@@ -1,0 +1,8 @@
+name: 'Media Video File'
+core: 8.x
+type: module
+package: Lightning
+description: 'Local video file support for Lightning Media.'
+dependencies:
+  - lightning_media
+

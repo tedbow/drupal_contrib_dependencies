@@ -1,0 +1,5 @@
+name: Menu Reference Render
+core: 8.x
+type: module
+description: 'Implements a field formatter to render a reference menu.'
+package: Field formatters

@@ -1,0 +1,4 @@
+name: igbinary
+type: module
+description: Offers igbinary based serialization.
+core: 8.x

@@ -1,0 +1,6 @@
+name: 'AdressDataGouvFr Geocoder Provider'
+type: module
+description: 'Use adresse.data.gouv.fr websevice API in a geocoder provider'
+core: 8.x
+dependencies:
+  - geocoder

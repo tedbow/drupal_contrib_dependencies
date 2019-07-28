@@ -1,0 +1,9 @@
+name: 'Google Places Search Form'
+description: 'Module for providing google placess autocomplete search form and respective lat/long for searched address'
+package: Custom
+core: 8.x
+type: module
+configure: google_places_search_form.admin_settings
+
+dependencies:
+  -geolocation:geolocation

@@ -1,0 +1,10 @@
+name: 'Outdated Translation'
+description: 'Manage outdated status for translations'
+core: 8.x
+type: module
+package: Multilingual
+version: VERSION
+
+dependencies:
+  - drupal:language
+  - drupal:content_translation

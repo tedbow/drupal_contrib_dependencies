@@ -1,0 +1,7 @@
+name: Domain Robots Txt
+description: 'Edit RobotsTxt per domain.'
+type: module
+core: 8.x
+package: Domain
+dependencies:
+  - domain:domain

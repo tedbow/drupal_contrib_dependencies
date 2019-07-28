@@ -1,0 +1,6 @@
+name: My Amazon Module
+description: Imports amazon products from amazon for amazon affiliates. This module is written by Naseem Sarwar.
+package: Custom
+type: module
+version: 1.0
+core: 8.x

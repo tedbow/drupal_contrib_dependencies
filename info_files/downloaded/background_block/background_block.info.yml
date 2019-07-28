@@ -1,0 +1,8 @@
+name: Background Block
+description: 'Add background block color'
+core: 8.x
+type: module
+version: '8.x-1.0'
+project: background_block
+dependencies:
+  - drupal:block

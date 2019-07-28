@@ -1,0 +1,14 @@
+name: Webtrees
+type: module
+description: 'Support for single sign-on for Webtrees genealogy web server'
+package: Webtrees
+# core: 8.x
+dependencies:
+ - drupal:system
+ - drupal:user
+
+# Information added by Drupal.org packaging script on 2019-06-14
+version: '8.x-1.x-dev'
+core: '8.x'
+project: 'webtrees'
+datestamp: 1560562669

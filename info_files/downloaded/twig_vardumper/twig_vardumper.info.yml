@@ -1,0 +1,5 @@
+name: Twig vardumper
+type: module
+description: 'Provides a way to display Twig PHP variables in a pretty way.'
+core: 8.x
+package: Development

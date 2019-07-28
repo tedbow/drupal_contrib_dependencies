@@ -1,0 +1,5 @@
+name: Date YMD
+type: module
+description: A field for storing pre-1970 dates with optional month and day elements.
+package: Field types
+core: 8

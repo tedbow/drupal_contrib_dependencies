@@ -1,0 +1,8 @@
+name: 'Monolog Dblog'
+type: module
+description: Provides support for monolog dblog.
+core: 8.x
+package: Logging
+dependencies:
+  - dblog:dblog
+

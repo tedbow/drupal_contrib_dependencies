@@ -1,0 +1,10 @@
+name: Blizz Table Field
+type: module
+description: Provides a table field.
+core: 8.x
+package: Blizz
+dependencies:
+  - field
+libraries:
+  - blizz_table_field/handsontable
+configure: blizz_table_field.settings_form

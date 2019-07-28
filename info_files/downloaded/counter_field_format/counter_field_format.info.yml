@@ -1,0 +1,5 @@
+name: 'Counter Field Formatter'
+type: module
+description: 'Creates a counter field formatter'
+core: 8.x
+package: 'Field Formatters'

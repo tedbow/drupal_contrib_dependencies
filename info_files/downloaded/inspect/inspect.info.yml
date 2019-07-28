@@ -1,0 +1,5 @@
+name: 'Inspect'
+description: 'Inspect variables and stack traces to log, file or screen.'
+package: Development
+core: 8.x
+type: module

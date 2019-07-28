@@ -1,0 +1,54 @@
+name: xProfile
+type: profile
+description: xandeadx's Drupal 8 profile
+version: 1.x-dev
+core: 8.x
+dependencies:
+  # Core
+  - automated_cron
+  - block
+  - block_content
+  - ckeditor
+  - config
+  - contact
+  - contextual
+  - datetime
+  - dblog
+  - editor
+  - field_ui
+  - file
+  - help
+  - image
+  - menu_link_content
+  - menu_ui
+  - node
+  - options
+  - path
+  - taxonomy
+  - views
+  - views_ui
+  # Contrib
+  - admin_toolbar
+  - admin_toolbar_tools
+  - backup_migrate
+  - captcha
+  - colorbox
+  - devel
+  - devel_php
+  - druhels
+  - editor_file
+  - function_filter
+  - image_resize_filter
+  - improvements
+  - kint
+  - metatag
+  - module_filter
+  - pathauto
+  - search_kint
+  - styleguide
+  - swiftmailer
+  - transliterate_filenames
+  - twig_tweak
+  - xmlsitemap
+themes:
+  - xseven

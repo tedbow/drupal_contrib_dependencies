@@ -1,0 +1,7 @@
+name: 'More Filters'
+type: module
+description: A collection of useful input filters.
+core: 8.x
+package: 'Input filters'
+dependencies:
+  - filter

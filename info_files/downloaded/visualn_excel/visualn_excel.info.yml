@@ -1,0 +1,7 @@
+name: VisualN Excel
+type: module
+description: Excel files support integration
+core: 8.x
+package: VisualN
+dependencies:
+  - visualn:visualn_file_field

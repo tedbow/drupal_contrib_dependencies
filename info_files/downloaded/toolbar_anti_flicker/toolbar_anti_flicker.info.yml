@@ -1,0 +1,8 @@
+name: Toolbar Anti-flicker
+type: module
+description: 'Fixing annoying Toolbar jumping & flashing problems.'
+package: Toolbar
+core: 8.x
+
+dependencies:
+  - drupal:toolbar

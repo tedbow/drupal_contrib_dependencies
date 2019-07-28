@@ -1,0 +1,7 @@
+name: Lqipay Payment Method
+description: Provides the payment method for Liqpay service.
+type: module
+core: 8.x
+dependencies:
+ - payment_offsite_api
+package: Payment

@@ -1,0 +1,11 @@
+name: 'Btester Portfolio'
+description: 'Btester Portfolio'
+type: module
+core: 8.x
+dependencies:
+  - bt_cms:bt_cms
+  - bt_image:bt_image
+  - bt_image_gallery:bt_image_gallery
+  - bt_video:bt_video
+  - youtube:youtube
+package: Btester
