@@ -4,34 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "84b428de0b03f88cf63f23dcfdeab45e",
+    "content-hash": "156ada5319343ed19f56488ecb37b464",
     "packages": [
-        {
-            "name": "kbjr/git.php",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/kbjr/Git.php.git",
-                "reference": "fd65b9b14bf854bc53411180aeb2ff2b96c04fb3"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/kbjr/Git.php/zipball/fd65b9b14bf854bc53411180aeb2ff2b96c04fb3",
-                "reference": "fd65b9b14bf854bc53411180aeb2ff2b96c04fb3",
-                "shasum": ""
-            },
-            "type": "library",
-            "autoload": {
-                "classmap": [
-                    "Git.php"
-                ]
-            },
-            "support": {
-                "source": "https://github.com/kbjr/Git.php/tree/master",
-                "issues": "https://github.com/kbjr/Git.php/issues"
-            },
-            "time": "2019-07-06T00:01:02+00:00"
-        },
         {
             "name": "symfony/polyfill-ctype",
             "version": "v1.11.0",
@@ -92,16 +66,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v4.3.2",
+            "version": "v4.3.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "c60ecf5ba842324433b46f58dc7afc4487dbab99"
+                "reference": "34d29c2acd1ad65688f58452fd48a46bd996d5a6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/c60ecf5ba842324433b46f58dc7afc4487dbab99",
-                "reference": "c60ecf5ba842324433b46f58dc7afc4487dbab99",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/34d29c2acd1ad65688f58452fd48a46bd996d5a6",
+                "reference": "34d29c2acd1ad65688f58452fd48a46bd996d5a6",
                 "shasum": ""
             },
             "require": {
@@ -147,15 +121,13 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-06T14:04:46+00:00"
+            "time": "2019-07-24T14:47:54+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "kbjr/git.php": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

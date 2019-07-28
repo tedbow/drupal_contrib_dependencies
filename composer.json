@@ -1,15 +1,8 @@
 {
     "name": "ted.bowman/contrib_dependencies",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "git@github.com:kbjr/Git.php.git"
-        }
-    ],
     "type": "project",
     "require": {
-        "symfony/yaml": "^4.3",
-        "kbjr/Git.php": "dev-master"
+        "symfony/yaml": "^4.3"
     },
     "authors": [
         {
