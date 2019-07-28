@@ -1,0 +1,67 @@
+
+Warning: strpos() expects parameter 1 to be string, array given in /Users/ted.bowman/Dropbox/projects/contrib_dependencies/src/FromDrupal/Dependency.php on line 90
+
+Warning: explode() expects parameter 2 to be string, array given in /Users/ted.bowman/Dropbox/projects/contrib_dependencies/src/FromDrupal/Dependency.php on line 91
+
+Warning: strpos() expects parameter 1 to be string, array given in /Users/ted.bowman/Dropbox/projects/contrib_dependencies/src/FromDrupal/Dependency.php on line 90
+
+Warning: explode() expects parameter 2 to be string, array given in /Users/ted.bowman/Dropbox/projects/contrib_dependencies/src/FromDrupal/Dependency.php on line 91
+
+Warning: strpos() expects parameter 1 to be string, array given in /Users/ted.bowman/Dropbox/projects/contrib_dependencies/src/FromDrupal/Dependency.php on line 90
+
+Warning: explode() expects parameter 2 to be string, array given in /Users/ted.bowman/Dropbox/projects/contrib_dependencies/src/FromDrupal/Dependency.php on line 91
+Array
+(
+    [bad] => Array
+        (
+            [0] => avatars,dynamic_entity_reference:dynamic_entity_reference (>=1.x)
+            [1] => avatars_gravatar,avatars:avatars (>=2.x)
+            [2] => config_actions_provider,config_provider:config_provider (>=8.x-2.x)
+            [3] => config_perms_context,config_perms:config_perms (>=8.x-2.x)
+            [4] => config_share,config_provider:config_provider (>=8.x-2.x)
+            [5] => config_sync,config_provider:config_provider (>=8.x-2.x)
+            [6] => date_recur_interactive,date_recur:date_recur (>=2.x)
+            [7] => date_recur_modular,date_recur:date_recur (>=8.x-2.x)
+            [8] => date_recur_ss,date_recur:date_recur (>=2.x)
+            [9] => ds_chains,ds:ds (>=8.x-3.x)
+            [10] => editor_md,markdown:markdown (>=8.x-2.x)
+            [11] => elevatezoomplus,slick:slick (>= 2.x)
+            [12] => geolocation_street_view,geolocation:geolocation (= 8.x-1.x)
+            [13] => gridstack,blazy:blazy (>= 2.x)
+            [14] => oh,date_recur:date_recur (>=2.x)
+            [15] => outlayer,gridstack:gridstack (>= 2.x)
+            [16] => panopoly_wysiwyg,linkit (>=8.x-5.x)
+            [17] => pnx_media,entity_browser:entity_browser (>=8.x-2.x)
+            [18] => pnx_media,entity_browser:entity_browser_entity_form (>=8.x-2.x)
+            [19] => pnx_media,media_entity_browser:media_entity_browser (>=8.x-2.x)
+            [20] => pnx_media,video_embed_field:video_embed_field (>=8.x-2.x)
+            [21] => pnx_media,video_embed_field:video_embed_media (>=8.x-2.x)
+            [22] => relaxed,multiversion:multiversion (>=8.x-2.x)
+            [23] => search_api_solrcloud,search_api_solr (>=8.x-1.x)
+            [24] => sendgrid_integration,mailsystem:mailsystem (>=4.x)
+            [25] => sfs,system (>=8.5.x)
+            [26] => sfweb2lead_webform,webform:webform (>=8.x-5.x)
+            [27] => slick,blazy:blazy (>= 2.x)
+            [28] => slick_media,slick:slick (>= 2.x)
+            [29] => slick_paragraphs,slick:slick (>= 2.x)
+            [30] => social_auth_drupal,social_auth:social_auth (>= 8.x-2.x)
+            [31] => social_auth_esia,social_auth:social_auth (>= 8.x-2.x)
+            [32] => social_auth_hid,social_auth:social_auth (>= 8.x-2.x)
+            [33] => social_auth_itsme,social_auth:social_auth (>= 8.x-2.x)
+            [34] => social_auth_ok,social_auth:social_auth (>= 8.x-2.x)
+            [35] => social_auth_pbs,social_auth:social_auth (>= 8.x-2.x)
+            [36] => social_auth_vk,social_auth:social_auth (>= 8.x-2.x)
+            [37] => social_auth_wechat,social_auth:social_auth (>= 8.x-2.x)
+            [38] => social_post,social_api:social_api (>= 8.x-2.x)
+            [39] => social_post_facebook,social_post:social_post (>= 8.x-2.x)
+            [40] => social_post_weibo,social_post:social_post (>= 8.x-2.x)
+            [41] => toastify,jquery_colorpicker:jquery_colorpicker (>= 8.x-2.x)
+            [42] => user_badges,system (>=8.1.x)
+            [43] => webform_craftyclicks,webform:webform (>=8.x-5.x)
+            [44] => webform_shs,webform:webform (>=8.x-5.x)
+            [45] => yt_push,video_embed_field:video_embed_media (>=8.x-2.x)
+        )
+
+    [module_with_dependencies] => 3613
+    [moodules] => 6380
+)
