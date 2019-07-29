@@ -7,7 +7,7 @@ modulelistmachinenames.csv was copied from https://github.com/mcdwayne/d9-drupal
 
 `getInfoFiles.php` does not need to be run unless the info files need to be updated.
 
-The results of a scan on 7/29/2019 are in `results.txt`
+The results of a scan on 7/29/2019 are in [`results.txt`](results.txt)
 
 ## How to use
 1. `composer install`
