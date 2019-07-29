@@ -17,7 +17,8 @@ The results of a scan on 7/29/2019 are in [`results.txt`](results.txt)
 
 `getInfoFiles.php` does not need to be run unless the info files need to be updated.
 
-#Related Drupal.org issues
+# Related Drupal.org issues
+
 [[META] Improve dependency management](https://www.drupal.org/project/drupal/issues/3069795)
 
 [Module version dependency in .info.yml is ineffective for patch releases](https://www.drupal.org/project/drupal/issues/2641658)
