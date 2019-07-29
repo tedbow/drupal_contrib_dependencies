@@ -59,6 +59,7 @@ class InfoFileScanner {
     return [
       'bad_contrib' => $bad_contrib_dependencies,
       'bad_core' => $bad_core_dependencies,
+      'total_dependencies' => $total_dependencies,
       'module_with_dependencies' => $module_with_depencies,
       'moodules' => $module_cnt,
     ];

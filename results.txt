@@ -80,6 +80,7 @@ Array
             [27] => user_badges,system (>=8.1.x)
         )
 
+    [total_dependencies] => 7549
     [module_with_dependencies] => 3613
     [moodules] => 6380
 )
