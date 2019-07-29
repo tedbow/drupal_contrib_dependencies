@@ -11,7 +11,7 @@ use Symfony\Component\Yaml\Yaml;
 class InfoFileScanner {
 
   public static function scan() {
-    $dir = dirname(get_included_files()[0]) . "/downloaded";
+    $dir = dirname(get_included_files()[0]) . "/info_files/downloaded";
     $results = [];
     $info_files = static::getDirContents($dir);
     $total_dependencies = 0;
