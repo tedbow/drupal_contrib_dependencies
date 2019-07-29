@@ -1,3 +1,5 @@
+// Run with `InfoFileScanner::scan(TRUE);`
+
 Array
 (
     [bad_contrib] => Array
@@ -84,3 +86,4 @@ Array
     [module_with_dependencies] => 3613
     [moodules] => 6380
 )
+`

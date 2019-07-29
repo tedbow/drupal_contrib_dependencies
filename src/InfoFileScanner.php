@@ -10,7 +10,7 @@ use Symfony\Component\Yaml\Yaml;
 
 class InfoFileScanner {
 
-  public static function scan() {
+  public static function scan($remove_prefix = TRUE) {
     $dir = dirname(get_included_files()[0]) . "/info_files/downloaded";
     $results = [];
     $info_files = static::getDirContents($dir);
@@ -38,7 +38,10 @@ class InfoFileScanner {
         foreach ($info['dependencies'] as $dependency_string) {
           $dependency = Dependency::createFromString($dependency_string);
           if ($constraint_string = $dependency->getConstraintString()) {
-            $constraint_string = str_replace('8.x-', '', $constraint_string);
+            if ($remove_prefix) {
+              $constraint_string = str_replace('8.x-', '', $constraint_string);
+            }
+
             try {
               $parser->parseConstraints($constraint_string);
             }
