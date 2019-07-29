@@ -99,14 +99,4 @@ class Dependency  {
     return new static($name, $project, $version_string);
   }
 
-  /**
-   * Prevents unnecessary serialization of constraint objects.
-   *
-   * @return array
-   *   The properties to seriailize.
-   */
-  public function __sleep() {
-    return ['name', 'project', 'constraintString'];
-  }
-
 }

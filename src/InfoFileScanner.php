@@ -15,7 +15,8 @@ class InfoFileScanner {
     $results = [];
     $info_files = static::getDirContents($dir);
     $total_dependencies = 0;
-    $bad_dependencies = [];
+    $bad_contrib_dependencies = [];
+    $bad_core_dependencies = [];
     $parser = new VersionParser();
     $module_cnt = 0;
     $module_with_depencies = 0;
@@ -36,20 +37,28 @@ class InfoFileScanner {
         $module_name = str_replace('.info.yml', '', basename($info_file));
         foreach ($info['dependencies'] as $dependency_string) {
           $dependency = Dependency::createFromString($dependency_string);
-          if ($dependency->getProject() !== 'drupal'  && $constraint_string = $dependency->getConstraintString()) {
+          if ($constraint_string = $dependency->getConstraintString()) {
             $constraint_string = str_replace('8.x-', '', $constraint_string);
             try {
               $parser->parseConstraints($constraint_string);
             }
             catch (\UnexpectedValueException $exception) {
-              $bad_dependencies[] = "$module_name," . $dependency_string;
+              $bad = "$module_name," . $dependency_string;
+              if ($dependency->getProject() === 'drupal' ||  $dependency->getName() === 'system') {
+                $bad_core_dependencies[] = $bad;
+
+              }
+              else {
+                $bad_contrib_dependencies[] = $bad;
+              }
             }
           }
         }
       }
     }
     return [
-      'bad' => $bad_dependencies,
+      'bad_contrib' => $bad_contrib_dependencies,
+      'bad_core' => $bad_core_dependencies,
       'module_with_dependencies' => $module_with_depencies,
       'moodules' => $module_cnt,
     ];
