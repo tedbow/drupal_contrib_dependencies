@@ -36,7 +36,7 @@ class InfoFileScanner {
         $module_name = str_replace('.info.yml', '', basename($info_file));
         foreach ($info['dependencies'] as $dependency_string) {
           $dependency = Dependency::createFromString($dependency_string);
-          if ($dependency->getProject() !== 'drupal' && $constraint_string = $dependency->getConstraintString()) {
+          if ($dependency->getProject() !== 'drupal'  && $constraint_string = $dependency->getConstraintString()) {
             $constraint_string = str_replace('8.x-', '', $constraint_string);
             try {
               $parser->parseConstraints($constraint_string);

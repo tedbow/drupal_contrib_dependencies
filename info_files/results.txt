@@ -1,15 +1,3 @@
-
-Warning: strpos() expects parameter 1 to be string, array given in /Users/ted.bowman/Dropbox/projects/contrib_dependencies/src/FromDrupal/Dependency.php on line 90
-
-Warning: explode() expects parameter 2 to be string, array given in /Users/ted.bowman/Dropbox/projects/contrib_dependencies/src/FromDrupal/Dependency.php on line 91
-
-Warning: strpos() expects parameter 1 to be string, array given in /Users/ted.bowman/Dropbox/projects/contrib_dependencies/src/FromDrupal/Dependency.php on line 90
-
-Warning: explode() expects parameter 2 to be string, array given in /Users/ted.bowman/Dropbox/projects/contrib_dependencies/src/FromDrupal/Dependency.php on line 91
-
-Warning: strpos() expects parameter 1 to be string, array given in /Users/ted.bowman/Dropbox/projects/contrib_dependencies/src/FromDrupal/Dependency.php on line 90
-
-Warning: explode() expects parameter 2 to be string, array given in /Users/ted.bowman/Dropbox/projects/contrib_dependencies/src/FromDrupal/Dependency.php on line 91
 Array
 (
     [bad] => Array
