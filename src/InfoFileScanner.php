@@ -12,7 +12,6 @@ class InfoFileScanner {
 
   public static function scan($remove_prefix = TRUE) {
     $dir = dirname(get_included_files()[0]) . "/info_files/downloaded";
-    $results = [];
     $info_files = static::getDirContents($dir);
     $total_dependencies = 0;
     $bad_contrib_dependencies = [];
@@ -28,13 +27,17 @@ class InfoFileScanner {
       catch (ParseException $parseException) {
         continue;
       }
+      $module_name = str_replace('.info.yml', '', basename($info_file));
 
 
+      if (isset($info['core']) && !preg_match("/^\d\.x$/", $info['core'])) {
+        $bad_core_dependencies[$module_name] = $info['core'];
+      }
+      continue;
       if (!empty($info['dependencies']) && is_array($info['dependencies'])) {
         $total_dependencies += count($info['dependencies']);
         $module_with_depencies++;
 
-        $module_name = str_replace('.info.yml', '', basename($info_file));
         foreach ($info['dependencies'] as $dependency_string) {
           $dependency = Dependency::createFromString($dependency_string);
           if ($constraint_string = $dependency->getConstraintString()) {
